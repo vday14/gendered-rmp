@@ -1,0 +1,1948 @@
+<!DOCTYPE html><!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]--><!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]--><!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]--><!--[if gt IE 8]><!--><html xmlns="http://www.w3.org/1999/xhtml" class="js applicationcache geolocation history svg sessionstorage localstorage hashchange audio canvas canvastext video cssgradients opacity rgba inlinesvg supports svgclippaths fontface generatedcontent textshadow cssanimations backgroundsize borderimage borderradius boxshadow csscolumns csscolumns-width csscolumns-span csscolumns-fill csscolumns-gap csscolumns-rule csscolumns-rulecolor csscolumns-rulestyle csscolumns-rulewidth csscolumns-breakbefore csscolumns-breakafter csscolumns-breakinside flexbox flexboxlegacy csstransforms csstransforms3d csstransitions fa-events-icons-ready"><!--<![endif]--><head>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="google-site-verification" content="F8gUuqzRvOrAlhaGyP7aAuMs_Se8zK-98Ai2sNsIZEo" />
+    <meta name="google-site-verification" content="hk1NnSbYuDC0Sppgbf7YIT-VxUiRbOVRdtqA4AmkGzM" />
+    <meta name="google-site-verification" content="CKMC_IwvKoVbX1U8x1A9yzKABsSlop6qxfuDzwfV7Qs" /> <!--  relaunch qa -->
+    <meta name="google-site-verification" content="1D_3ZfAdMu4Tki8pFRj68YAqYot-paTOoDVzCTIJZZI" /> <!--  relaunch rmp -->
+    <meta name="google-signin-client_id" content="14147781149-i5ph5oqooelp3k0qfrb3jkk6vs4528ha.apps.googleusercontent.com" />
+    <script src="http://rules.quantcount.com/rules-p-mEzuYq24VEJ-3.js" async=""></script><script src="http://pagead2.googlesyndication.com/pagead/osd.js"></script><script src="https://securepubads.g.doubleclick.net/gpt/pubads_impl_rendering_193.js"></script><script src="https://apis.google.com/_/scs/apps-static/_/js/k=oz.gapi.en_US.pa4EfGZJtyM.O/m=client/rt=j/sv=1/d=1/ed=1/am=AQE/rs=AGLTcCNvuMxw8LpLrCWFeoIaET1OMP8dSQ/cb=gapi.loaded_0" async=""></script><script async="" src="//connect.facebook.net/en_US/fbds.js"></script><script src="https://use.fontawesome.com/fbed9f71e3.js"></script><link href="https://use.fontawesome.com/fbed9f71e3.css" media="all" rel="stylesheet" />
+    <link rel="stylesheet" href="/assets/application-ec54e29ac45db60e6916ac6fc8627a66.css" />
+    <script src="/assets/libs/jquery-7f5fea5cae853e98f1d3f5d509216bd4.js" type="text/javascript"></script>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, height=device-height, initial-scale=1.0, user-scalable=0, minimum-scale=1.0, maximum-scale=1.0" />
+    
+      <meta name="robots" content="all" />
+    
+    <meta name="description" content="Rate My Professors is the best college professor reviews and ratings source based on student feedback. Over 1.8 million professors and 15 million reviews. Find and rate a professor!" />
+    <title>Rate My Professors -  Review Teachers and Professors, School Reviews, College Campus Ratings</title>
+    <meta property="og:url" content="http://www.ratemyprofessors.com/search.jsp?queryBy=schoolId&amp;schoolName=University+of+Michigan&amp;schoolID=1258&amp;queryoption=TEACHER" />
+    <meta property="og:title" content="RateMyProfessors.com – Find and rate your professor or campus." />
+    <meta property="og:description" content="With over 1.3 million professors, 7,000 schools &amp; 15 million ratings, Rate My Professors is the best professor ratings source based on student feedback. Find &amp; rate your professors or school! #LeaveYourMark" />
+    
+        <meta property="og:image" content="http://www.ratemyprofessors.com/assets/RMP_logo.png" />
+    
+
+    <meta property="og:type" content="website" />
+
+    
+    
+    
+    <link rel="icon" href="/images/favicon-16.png" />
+    <link rel="icon" sizes="32×32" href="/images/favicon-32.png" />
+    <link rel="apple-touch-icon" href="/images/favicon-57.png" />
+    <link rel="apple-touch-icon" sizes="48×48" href="/images/favicon-48.png" />
+    <link rel="apple-touch-icon" sizes="72×72" href="/images/favicon-72.png" />
+    <link rel="apple-touch-icon" sizes="114×114" href="/images/favicon-114.png" />
+    <link rel="apple-touch-icon" sizes="152×152" href="/images/favicon-152.png" />
+    <link rel="apple-touch-icon-precomposed" href="/images/favicon-196.png" />
+    <!--[if IE]><link rel="shortcut icon" href="/images/favicon-16.ico" /> <![endif]-->
+    <meta name="msapplication-TileColor" content="#ffffff" />
+    <meta name="msapplication-TileImage" content="/images/favicon-16.png" />
+    <script>(function() {
+    var _fbq = window._fbq || (window._fbq = []);
+    if (!_fbq.loaded)
+    { var fbds = document.createElement('script'); fbds.async = true; fbds.src = '//connect.facebook.net/en_US/fbds.js'; var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(fbds, s); _fbq.loaded = true; }
+    _fbq.push(['addPixelId', '331289063738687']);
+    })();
+    window._fbq = window._fbq || [];
+    window._fbq.push(['track', 'PixelInitialized', {}]);
+    </script>
+    <noscript>&lt;img height="1" width="1" alt="" style="display:none" src="https://www.facebook.com/tr?id=331289063738687&amp;ev=PixelInitialized" /&gt;</noscript>
+
+    
+    
+    
+    
+
+    
+    
+    <script type="text/javascript">
+      window.RMP = window.RMP || {};
+
+      var protocol = window.location.protocol;
+      // console.log('protocol is ',protocol);
+      typeaheadurl = "http://search.mtvnservices.com/typeahead/suggest/?solrformat=true&amp;rows=20";
+      if (protocol == 'https:') {
+        typeaheadurl = "https://search-a.akamaihd.net/typeahead/suggest/?solrformat=true&amp;rows=20"
+      }
+      // console.log('typeaheadurl is ',typeaheadurl);
+
+      window.RMP.Settings = {
+        pathname : "",
+        uri : "/search.jsp",
+        page: "teacher_results",
+        typeahead :typeaheadurl,
+        ssltypeahead:typeaheadurl,
+        professorID : "",
+        schoolID: "",
+        department: "",
+        state: "",
+        country: "",
+        user: {},
+        pageLevelData: {"pageName":"/search/index","channel":"search","eVar2":"University of Michigan, null","eVar3":"TEACHER","eVar4":"","events":"event36, event38","section":"professors"},
+        reloadInterval: 30000,
+        adCampaignFlag: true,
+        adCampaignCountry: 0
+      }
+
+      if (typeof MTVN == "undefined") MTVN = {};
+      if (typeof MTVN.config == "undefined") MTVN.config = {};
+      if (typeof MTVN.config.btg == "undefined") MTVN.config.btg = {};
+      if (typeof MTVN.config.btg.DoubleClick == "undefined") MTVN.config.btg.DoubleClick = {};
+
+
+      MTVN.config.btg.DoubleClick.auto = false;
+      MTVN.config.btg.DoubleClick.onDemand = true;
+      MTVN.config.btg.DoubleClick.reloadableAds = true;
+      MTVN.config.btg.DoubleClick.reloadInterval = 30000;
+      //temporary setting for testing refresh by visibility only on search page
+      /*if(RMP.Settings.page == 'show_school')
+          var autoRefreshByVisibility = true;
+      else*/
+        var autoRefreshByVisibility = false;
+      console.log("Refresh By Visibility: " + (autoRefreshByVisibility ? 'On' : 'Off'))
+      var vmn_page_data = {
+        "metadata" :  { "property" : "rmp", "hub" : "", "is_main": false },
+        "mappings" : {
+          "ad-unit" : {"1" : "@property","2": "search" },
+          "key-values" : {"pageName":"/search/index","channel":"search","eVar2":"University of Michigan, null","eVar3":"TEACHER","eVar4":"","events":"event36, event38","section":"professors"},
+          "exclusion-categories" : "hub_pages"
+        },
+        "settings" : {
+          "reload" : true,
+          "reload_interval": 30000,
+          "autoRefreshByVisibility" : autoRefreshByVisibility
+        }
+      };
+    </script>
+
+    <script>
+      var script = document.createElement('script');
+      script.src = "https://btg.mtvnservices.com/aria/bentojs.js?site=ratemyprofessors.com&amp;v=1.13.3";
+      script.async = false;
+      document.head.appendChild(script);
+    </script><script src="https://btg.mtvnservices.com/aria/bentojs.js?site=ratemyprofessors.com&amp;v=1.13.3"></script>
+
+    
+    <link crossorigin="" rel="preload" href="/assets/leaguegothic-regular-webfont.woff" as="font" type="font/woff" />
+    <link crossorigin="" rel="preload" href="/assets/subset-SourceSansPro-Light.woff2" as="font" type="font/woff2" />
+  <script type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js" async="true"></script><script type="text/javascript" src="//js-sec.indexww.com/ht/p/184606-151024391015192.js" async="true"></script><script type="text/javascript" src="//mtvn.demdex.net/event?d_stuff=1&amp;d_dst=1&amp;d_rtbd=json&amp;d_cts=1&amp;d_cb=aam_tnt_cb"></script><script type="text/javascript" src="http://b.scorecardresearch.com/beacon.js?c1=2&amp;c2=6036034&amp;c3=&amp;c4=http%253A%2F%2Fwww.ratemyprofessors.com%2Fsearch.jsp%253FqueryBy%253DschoolId%2526schoolName%253DUniversity%2Bof%2BMichigan%2526schoolID%253D1258%2526queryoption%253DTEACHER&amp;c5=20000&amp;c6=&amp;c15="></script><style>.balaMainContainer {display:table; vertical-align:top; position:fixed; background-color:#EEE; bottom:0px; border:0px solid red; padding: 0px 0px 0px 0px; color:#000; z-index:2147483647; width:100%; margin:0px;}.balaTextContainer {border:0px solid blue; text-align:left; vertical-align:middle; display:table-cell; padding: 10px 10px 10px 15px; margin:0px; font-size:18px;}.balaImageContainer {border:0px solid green; vertical-align:middle; display:table-cell; text-align:right; padding:10px 10px 10px 0px; width:50px;}.balaCloseImage {width:35px; height:35px;cursor:pointer;}a.balaLink {text-decoration: underline; color:#00aaff;}@media only screen and (min-device-width: 320px) and (max-device-width: 640px){.balaTextContainer {font-size:14px;-webkit-text-size-adjust: 100%;}}</style><script type="text/javascript" src="//mtvn.demdex.net/event?d_rtbd=json&amp;d_dst=1&amp;d_cts=1&amp;d_cb=btg.Demdex.response&amp;c_uuid=null&amp;c_visit=www.ratemyprofessors.com_visit"></script><script type="text/javascript" src="//mtvn.demdex.net/event?d_rtbd=json&amp;d_dst=1&amp;d_cts=1&amp;d_cb=btg.Demdex.response&amp;c_pageName=%2Fsearch%2Findex&amp;c_ch=search&amp;c_v2=University%20of%20Michigan%2C%20null&amp;c_v3=TEACHER&amp;c_events=event36%2C%20event38%2Cevent16&amp;c_section=professors&amp;c_h2=search%2Findex&amp;c_v49=search&amp;c_c41=New&amp;c_host=www.ratemyprofessors.com"></script><link rel="preload" href="https://adservice.google.com/adsid/integrator.js?domain=www.ratemyprofessors.com" as="script" /><script type="text/javascript" src="https://adservice.google.com/adsid/integrator.js?domain=www.ratemyprofessors.com"></script><script src="https://securepubads.g.doubleclick.net/gpt/pubads_impl_193.js" async=""></script><style>#spout-unit-iframe-4c7dd75a-be25-4eb1-83d3-712076b501e3--L9h-AlTWk2bga668jTM {  display: block !important;  width: 100% !important;  height: 100% !important;  position: fixed !important;  top: 0 !important;  left: 0 !important;  z-index: 2147483647;  border: none;  outline: none;  opacity: 1; }  #spout-unit-iframe-4c7dd75a-be25-4eb1-83d3-712076b501e3--L9h-AlTWk2bga668jTM:not(.placement-overlay) {    z-index: 2147483646; }  #spout-unit-iframe-4c7dd75a-be25-4eb1-83d3-712076b501e3--L9h-AlTWk2bga668jTM.placement-in-page, #spout-unit-iframe-4c7dd75a-be25-4eb1-83d3-712076b501e3--L9h-AlTWk2bga668jTM.placement-pushdown, #spout-unit-iframe-4c7dd75a-be25-4eb1-83d3-712076b501e3--L9h-AlTWk2bga668jTM.placement-top-offscreen {    position: static !important; }  #spout-unit-iframe-4c7dd75a-be25-4eb1-83d3-712076b501e3--L9h-AlTWk2bga668jTM.placement-fixed-footer, #spout-unit-iframe-4c7dd75a-be25-4eb1-83d3-712076b501e3--L9h-AlTWk2bga668jTM.footer-expanding {    position: fixed !important; }  #spout-unit-iframe-4c7dd75a-be25-4eb1-83d3-712076b501e3--L9h-AlTWk2bga668jTM.placement-pushup {    position: static !important; }#spout-unit-block-4c7dd75a-be25-4eb1-83d3-712076b501e3--L9h-AlTWk2bga668jTM {  position: fixed;  z-index: -9999;  top: -9999px;  left: -9999px;  width: 1px;  height: 1px; }  #spout-unit-block-4c7dd75a-be25-4eb1-83d3-712076b501e3--L9h-AlTWk2bga668jTM.placement-pushdown, #spout-unit-block-4c7dd75a-be25-4eb1-83d3-712076b501e3--L9h-AlTWk2bga668jTM.placement-fixed, #spout-unit-block-4c7dd75a-be25-4eb1-83d3-712076b501e3--L9h-AlTWk2bga668jTM.placement-fixed-footer, #spout-unit-block-4c7dd75a-be25-4eb1-83d3-712076b501e3--L9h-AlTWk2bga668jTM.placement-footer-expanding, #spout-unit-block-4c7dd75a-be25-4eb1-83d3-712076b501e3--L9h-AlTWk2bga668jTM.placement-pushup, #spout-unit-block-4c7dd75a-be25-4eb1-83d3-712076b501e3--L9h-AlTWk2bga668jTM.placement-top-offscreen {    position: static;    top: auto;    left: auto;    -webkit-transition: height 0.75s cubic-bezier(0.175, 0.885, 0.32, 1.275);    -moz-transition: height 0.75s cubic-bezier(0.175, 0.885, 0.32, 1.275);    -ms-transition: height 0.75s cubic-bezier(0.175, 0.885, 0.32, 1.275);    -o-transition: height 0.75s cubic-bezier(0.175, 0.885, 0.32, 1.275);    transition: height 0.75s cubic-bezier(0.175, 0.885, 0.32, 1.275); }    #spout-unit-block-4c7dd75a-be25-4eb1-83d3-712076b501e3--L9h-AlTWk2bga668jTM.placement-pushdown.spout-spring-loaded, #spout-unit-block-4c7dd75a-be25-4eb1-83d3-712076b501e3--L9h-AlTWk2bga668jTM.placement-fixed.spout-spring-loaded, #spout-unit-block-4c7dd75a-be25-4eb1-83d3-712076b501e3--L9h-AlTWk2bga668jTM.placement-fixed-footer.spout-spring-loaded, #spout-unit-block-4c7dd75a-be25-4eb1-83d3-712076b501e3--L9h-AlTWk2bga668jTM.placement-footer-expanding.spout-spring-loaded, #spout-unit-block-4c7dd75a-be25-4eb1-83d3-712076b501e3--L9h-AlTWk2bga668jTM.placement-pushup.spout-spring-loaded, #spout-unit-block-4c7dd75a-be25-4eb1-83d3-712076b501e3--L9h-AlTWk2bga668jTM.placement-top-offscreen.spout-spring-loaded {      height: 0; }  #spout-unit-block-4c7dd75a-be25-4eb1-83d3-712076b501e3--L9h-AlTWk2bga668jTM.placement-pushup {    height: 1px !important; }#spout-unit-iframe-4c7dd75a-be25-4eb1-83d3-712076b501e3--L9h-AlTWk2bga668jTM{height: 90px !important;width:728px !important;bottom: 0 !important;top: auto !important;left:50% !important;margin-left:-364px !important;}</style><script type="text/javascript" src="//mtvn.demdex.net/event?d_rtbd=json&amp;d_dst=1&amp;d_cts=1&amp;d_cb=btg.Demdex.response&amp;c_linkName=Bala&amp;c_linkType=o&amp;c_lnk=true&amp;c_referrer=http%3A%2F%2Fwww.ratemyprofessors.com%2Fsearch.jsp%3FqueryBy%3DschoolId%26schoolName%3DUniversity%2Bof%2BMichigan%26schoolID%3D1258%26queryoption%3DTEACHER&amp;c_host=www.ratemyprofessors.com"></script></head>
+  <body class="teacher_results" style="">
+		
+	
+    <script>
+    adBlocker = true;
+    </script>
+    <script src="/assets/libs/adFrame_ads-df1339641dbca6aa4a024d645b468169.js" type="text/javascript"></script><div id="sDdwUEDR4UX2Jy22" style="display: none;"></div>
+
+    <!-- <div class="overlay"></div> -->
+    <!--do not modify this script -->
+    <div id="mobileNav" class="slide">
+      <div class="mobile_nav_wrap">
+        <div class="navItems">
+          <ul class="menuNav">
+            <!-- One Menu Item -->
+            <li>
+              <a href="/mobile/professor_search">
+                <span class="icon icon-professor"></span>
+                <span class="title">Professors</span>
+                <span class="arrow"></span>
+              </a>
+            </li>
+            <!-- One Menu Item -->
+
+            <!-- One Menu Item -->
+            <li>
+              <a href="/mobile/school_search">
+                <span class="icon icon-school"></span>
+                <span class="title">Schools</span>
+                <span class="arrow"></span>
+              </a>
+            </li>
+            <!-- One Menu Item -->
+
+            <!-- One Menu Item -->
+            <li>
+              <a href="/mobile/rate_search">
+                <span class="icon icon-rate"></span>
+                <span class="title">Rate</span>
+                <span class="arrow"></span>
+              </a>
+            </li>
+            <!-- One Menu Item -->
+
+            <!-- One Menu Item -->
+            <li>
+              <a href="/mobile/blog">
+                <span class="icon icon-blog"></span>
+                <span class="title">Blog</span>
+                <span class="arrow"></span>
+              </a>
+            </li>
+            <!-- One Menu Item -->
+
+            <!-- One Menu Item -->
+            <li id="mobilemyProfContainer" class="hide">
+              <a href="/mobile/myprofs">
+                <span class="icon icon-my-profs"></span>
+                <span class="title">My Profs</span>
+                <span class="arrow"></span>
+              </a>
+            </li>
+            <!-- One Menu Item -->
+
+            <!-- Not Logged In -->
+            <div id="mobileLoginSectionContainer">
+              
+  <!-- Need ajax widget -->
+  <li class="mobile_login logged_off">
+    <a href="/member">
+      <span class="mobile_login_text">log In</span>
+      <span class="arrow"></span>
+    </a>
+  </li>
+
+
+            </div>
+            <li id="mobileSocial">
+              <ul>
+                <li><a href="https://www.facebook.com/RateMyProfessor" class="fa fa-facebook" target="_blank" onclick="javascript:mtvn.btg.Controller.sendLinkEvent({ linkName:'GLOBAL:facebook', linkType:'o' } );"></a></li>
+                <li><a href="http://instagram.com/ratemyprofessors" class="fa fa-instagram" target="_blank" onclick="javascript:mtvn.btg.Controller.sendLinkEvent({ linkName:'GLOBAL:instagram', linkType:'o' } );"></a></li>
+                <li><a href="https://twitter.com/ratemyprofessor" class="fa fa-twitter" target="_blank" onclick="javascript:mtvn.btg.Controller.sendLinkEvent({ linkName:'GLOBAL:twitter', linkType:'o' } );"></a></li>
+                <li><a href="https://www.snapchat.com/add/ratemyprofessor?utm_source=uwide_links&amp;utm_medium=web&amp;utm_campaign=uwide_links" class="fa fa-snapchat-ghost" target="_blank" onclick="javascript:mtvn.btg.Controller.sendLinkEvent({ linkName:'GLOBAL:snapchat', linkType:'o' } );"></a></li>
+                <li><a href="http://ratemyprofessors.tumblr.com/" class="fa fa-tumblr" target="_blank" onclick="javascript:mtvn.btg.Controller.sendLinkEvent({ linkName:'GLOBAL:tumblr', linkType:'o' } );"></a></li>
+                <li><a href="http://www.pinterest.com/ratemyprofessor/" class="fa fa-pinterest-p" target="_blank" onclick="javascript:mtvn.btg.Controller.sendLinkEvent({ linkName:'GLOBAL:pinterest', linkType:'o' } );"></a></li>
+                
+              </ul>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </div>
+    <!-- Starts The Page Wrap -->
+    <div id="container">
+      <div class="overlay"></div>
+      <!-- Begins Mobile Header -->
+      <div id="mobileHeader" class="slide">
+		
+	
+        <a id="mobileHamburger" href="#"><span></span></a>
+        <a href="/" id="mLogo"></a>
+        <a href="#" class="icon-search"></a>
+        <div class="mobileSearch">
+          <div id="mSearchBox">
+            <form class="main-search-form" action="/search.jsp"><input type="search" id="msearchr" name="query" placeholder="Search ..." class="ui-autocomplete-input" autocomplete="off" /></form>
+          </div>
+          <div id="headerAutocomplete">
+            <div class="results-container">
+              <div id="header-results">
+                <div class="professor-list">
+                  <div class="label">Professors</div>
+                  <ul></ul>
+                  <a href="/search.jsp?queryBy=teacherName&amp;query={{requestparam}}" class="view-all view-all-professors">View All Professors</a>
+                </div>
+                <div class="school-list">
+                  <div class="label">Schools</div>
+                  <ul></ul>
+                  <a href="/search.jsp?queryBy=schoolName&amp;query={{requestparam}}" class="view-all view-all-schools">View All Schools</a>
+                </div>
+              </div>
+              <div id="header-no-results">
+                Sorry No Results Found
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div id="mobileLeaderboardAd" class="top-header"><div id="mobileLeaderboardAdWrap"></div></div>
+      <!-- Ends Mobile Header -->
+
+      
+        <!--<section class="top-header">
+  <div id="ad1x1" data-ad-sizes="1x1" data-ad-keyvalues="" data-ad-reload-interval="0" style=""></div>
+  <div id="ad1x2" data-ad-sizes="1x2" data-ad-keyvalues="" data-ad-reload-interval="0" style=""></div>
+  <div id="ad3x3" data-ad-sizes="3x3" data-ad-keyvalues="" data-ad-reload-interval="0" style=""></div>
+  <div id="ad6x6" data-ad-sizes="6x6" data-ad-keyvalues="" data-ad-reload-interval="0" style=""></div>
+  <article id="mtv_lead_1" class="ad leaderboard_ad">
+  	<div id="ad728" style="text-align: center;"></div>
+  </article>
+</section>
+-->
+
+        <!-- Starts Header -->
+        <header>
+  <div class="overlay"></div>
+  <a href="/" id="logo" onclick="javascript:mtvn.btg.Controller.sendLinkEvent({ linkName:'GLOBAL:Logo', linkType:'o' } );"></a>
+  <!-- Starts the header search box -->
+  <div id="searchBox">
+    <div class="searchBox-wrapper">
+      <form class="main-search-form" method="GET" action="/search.jsp"><input type="text" id="searchr" name="query" placeholder="Search for a professor or school" autocomplete="off" autocorrect="off" spellcheck="false" onclick="javascript:mtvn.btg.Controller.sendLinkEvent({ linkName:'SEARCH:Filter', linkType:'o' } );" class="ui-autocomplete-input" /></form>
+      <div id="tablet-social-dropdown">
+        <div class="tablet-social">
+          <span class="social-text">Follow us</span>
+        </div>
+        <div class="tablet-social-list">
+          <ul>
+            <a href="https://www.facebook.com/RateMyProfessor" target="_blank" onclick="javascript:mtvn.btg.Controller.sendLinkEvent({ linkName:'GLOBAL:facebook', linkType:'o' } );">
+              <li>
+                <i class="fa fa-facebook"></i>
+                <span class="text-social">facebook</span>
+              </li>
+            </a>
+            <a href="http://instagram.com/ratemyprofessors" target="_blank" onclick="javascript:mtvn.btg.Controller.sendLinkEvent({ linkName:'GLOBAL:instagram', linkType:'o' } );">
+              <li>
+                <i class="fa fa-instagram"></i>
+                <span class="text-social">instagram</span>
+              </li>
+            </a>
+            <a href="https://twitter.com/ratemyprofessor" target="_blank" onclick="javascript:mtvn.btg.Controller.sendLinkEvent({ linkName:'GLOBAL:twitter', linkType:'o' } );">
+              <li>
+                <i class="fa fa-twitter"></i>
+                <span class="text-social">twitter</span>
+              </li>
+            </a>
+            <a href="https://www.snapchat.com/add/ratemyprofessor?utm_source=uwide_links&amp;utm_medium=web&amp;utm_campaign=uwide_links" target="_blank" onclick="javascript:mtvn.btg.Controller.sendLinkEvent({ linkName:'GLOBAL:snapchat', linkType:'o' } );">
+              <li>
+                <i class="fa fa-snapchat-ghost"></i>
+                <span class="text-social">snapchat</span>
+              </li>
+            </a>
+            <a href="http://ratemyprofessors.tumblr.com/" target="_blank" onclick="javascript:mtvn.btg.Controller.sendLinkEvent({ linkName:'GLOBAL:tumblr', linkType:'o' } );">
+              <li>
+                <i class="fa fa-tumblr"></i>
+                <span class="text-social">tumblr</span>
+              </li>
+            </a>
+            <a href="http://www.pinterest.com/ratemyprofessor/" target="_blank" onclick="javascript:mtvn.btg.Controller.sendLinkEvent({ linkName:'GLOBAL:pinterest', linkType:'o' } );">
+              <li>
+                <i class="fa fa-pinterest-p"></i>
+                <span class="text-social">pinterest</span>
+              </li>
+            </a>
+ 
+          </ul>
+        </div>
+      </div>
+    </div>
+    <div id="headerAutocomplete">
+      <div class="results-container">
+        <div id="header-results">
+          <div class="professor-list">
+            <div class="label">Professors</div>
+            <ul></ul>
+            <a href="/search.jsp?queryBy=teacherName&amp;query={{requestparam}}" class="view-all view-all-professors">View All Professors</a>
+          </div>
+          <div class="school-list">
+            <div class="label">Schools</div>
+            <ul></ul>
+            <a href="/search.jsp?queryBy=schoolName&amp;query={{requestparam}}" class="view-all view-all-schools">View All Schools</a>
+          </div>
+        </div>
+        <div id="header-no-results">
+          Sorry No Results Found
+        </div>
+      </div>
+    </div>
+  </div>
+  <!-- Ends the header search box -->
+
+  <!-- Starts the Head Social Bar -->
+  <div id="headSocial">
+    <ul>
+      <li><a href="https://www.facebook.com/RateMyProfessor" class="fa fa-facebook" target="_blank" onclick="javascript:mtvn.btg.Controller.sendLinkEvent({ linkName:'GLOBAL:facebook', linkType:'o' } );"></a></li>
+      <li><a href="http://instagram.com/ratemyprofessors" class="fa fa-instagram" target="_blank" onclick="javascript:mtvn.btg.Controller.sendLinkEvent({ linkName:'GLOBAL:instagram', linkType:'o' } );"></a></li>
+      <li><a href="https://twitter.com/ratemyprofessor" class="fa fa-twitter" target="_blank" onclick="javascript:mtvn.btg.Controller.sendLinkEvent({ linkName:'GLOBAL:twitter', linkType:'o' } );"></a></li>
+      <li><a href="https://www.snapchat.com/add/ratemyprofessor?utm_source=uwide_links&amp;utm_medium=web&amp;utm_campaign=uwide_links" class="fa fa-snapchat-ghost" target="_blank" onclick="javascript:mtvn.btg.Controller.sendLinkEvent({ linkName:'GLOBAL:snapchat', linkType:'o' } );"></a></li>
+      <li><a href="http://ratemyprofessors.tumblr.com/" class="fa fa-tumblr" target="_blank" onclick="javascript:mtvn.btg.Controller.sendLinkEvent({ linkName:'GLOBAL:tumblr', linkType:'o' } );"></a></li>
+      <li><a href="http://www.pinterest.com/ratemyprofessor/" class="fa fa-pinterest-p" target="_blank" onclick="javascript:mtvn.btg.Controller.sendLinkEvent({ linkName:'GLOBAL:pinterest', linkType:'o' } );"></a></li>
+    </ul>
+  </div>
+  <!-- Ends the Head Social Bar -->
+  <div id="desktopLoginSectionContainer" class="processed">
+    
+	<!-- Need ajax widget -->
+	<a href="/member" id="login" class="loggedout">
+		<span class="welcome-tablet">Log In</span>
+		<span class="welcome"> Log In / Sign Up </span>
+	</a>
+
+
+  </div>
+</header>
+
+        <!-- Ends Header -->
+
+        <!-- Starts left Nav -->
+        
+  <aside id="leftNav" class="height-col">
+    <div id="leftOverlay"></div>
+    <!-- Starts Left Menus -->
+    <div id="menuWrap">
+
+
+      <!-- Prof Menu -->
+      <div id="profMenu" class="menu">
+        <div class="header">Edit your professor search</div>
+        <div class="prof-block-form">
+<div class="center-block-form">
+  <div class="h1">Find a Professor</div>
+  <div class="search-by" data-search="profMenu">
+    <span class="label">SEARCH BY</span>
+    <a href="javascript:void(0)" data-type="professor-names" class="active" onclick="javascript:mtvn.btg.Controller.sendLinkEvent({ linkName:'LEFTNAV:Profs_byname', linkType:'o' } );">Name</a>
+    <a href="javascript:void(0)" data-type="professor-locations" onclick="javascript:mtvn.btg.Controller.sendLinkEvent({ linkName:'LEFTNAV:Profs_byschool', linkType:'o' } );">School</a>
+  </div>
+   <form action="/search.jsp?id=prof-name" method="get" name="prof-name" class="professor-names" id="prof-name">
+    <input type="hidden" name="queryoption" value="HEADER" id="queryoption" />
+    <input type="hidden" name="queryBy" value="teacherName" id="queryBy" />
+    <div class="search-info">
+      <div class="optional-flag">
+        <span class="line-form-txt">I'm looking for a professor at</span>
+        <div class="drop-down-fix">
+              <input type="text" id="searchProfessorSchool2" data-type="school" name="schoolName" placeholder="your school" autocorrect="off" autocomplete="off" class="ui-autocomplete-input" />
+                <input type="hidden" class="schoolID" name="schoolID" id="nameprofid" />
+              <div id="profauContainer2" class="autocomplete-container">
+               <ul></ul>
+              </div>
+                <!-- <span class="optional-content">Optional</span>-->
+              </div>
+
+              <span class="line-form-txt">named</span>
+        <div class="drop-down-fix">
+
+        <input type="text" name="query" id="searchProfessorName" data-type="name" placeholder="professor's name" autocorrect="off" autocomplete="off" required="" class="required ui-autocomplete-input" />
+                <div id="profNameAc" class="autocomplete-container">
+                  <ul></ul>
+                </div>
+                <span class="error-message" id="leftNav_error-message-align">This field is required.</span>
+            </div>
+        </div>
+
+        <div class="cta">
+          <input type="submit" name="_action_search" value="Search" id="prof-name-btn" />
+          <a class="reset-search-form" onclick="javascript:mtvn.btg.Controller.sendLinkEvent({ linkName:'LEFTNAV:Profs_byname_cancel', linkType:'o' } );">cancel</a>
+        </div>
+      </div>
+   </form>
+
+  <form action="/search.jsp?id=prof-location" method="get" name="prof-location" class="professor-locations" id="prof-location">
+    <input type="hidden" name="queryoption" value="TEACHER" id="queryoption" />
+    <input type="hidden" name="queryBy" value="schoolDetails" id="queryBy" />
+    <input type="hidden" class="schoolID" name="schoolID" />
+
+    <div class="search-info">
+      <span class="inline-form-txt">I'm looking for professors at</span>
+      <div class="drop-down-fix">
+         <input type="text" id="searchProfessorSchool" data-type="school" name="schoolName" placeholder="your school" autocorrect="off" autocomplete="off" required="" onchange="clearDepartmentDropDown();" onkeyup="clearDepartmentDropDown();" class="ui-autocomplete-input" />
+         <div id="profauContainer" class="autocomplete-container searchProfessorSchoolAC">
+          <ul></ul>
+         </div>
+         <span class="error-message" id="leftNav_error-message-align">This field is required.</span>
+      </div>
+      <div class="h2">in the</div>
+      <div class="no-default">
+        <span class="sod_select " tabindex="0" data-cycle="false" data-links="false" data-links-external="false" data-placeholder-option="false" data-filter=""><span class="sod_label">select</span><span class="sod_list_wrapper"><span class="sod_list" style="max-height: 36px;"><span class="sod_option  selected active " title="select" data-value="select">select</span></span></span><select name="dept" id="searchProfessorDepartment" data-type="department" data-placeholder-option="false" data-size="10" onchange="javascript:mtvn.btg.Controller.sendLinkEvent({ linkName:'LEFTNAV:Profs_byschool_deptdropdown', linkType:'o' } );">
+          <option>select</option>
+        </select></span>
+      </div>
+      <span class="inline-form-txt"> department.</span>
+
+    <div class="cta">
+      <input type="submit" name="_action_search" value="Search" id="prof-location-btn" />
+      <a class="reset-search-form" onclick="javascript:mtvn.btg.Controller.sendLinkEvent({ linkName:'LEFTNAV:Profs_byschool_cancel', linkType:'o' } );">cancel</a>
+    </div>
+
+    </div>
+  </form>
+
+
+   </div>
+  </div>
+      </div>
+      <!-- Ends Prof menu -->
+
+      <!-- School Menu -->
+      <div id="schoolMenu" class="menu">
+        <div class="header">Find a School</div>
+        <div class="school-block-form">
+  <div class="center-block-form">
+    <div class="h1 mobile-header">Find a School</div>
+    <div class="h1 header">Find your school</div>
+    <div class="search-by" data-search="schoolMenu">
+      <span class="label">SEARCH BY</span>
+      <a href="javascript:void(0)" data-type="school-names" class="active" onclick="javascript:mtvn.btg.Controller.sendLinkEvent({ linkName:'LEFTNAV:School_byname', linkType:'o' } );">Name</a>
+      <a href="javascript:void(0)" data-type="school-locations" onclick="javascript:mtvn.btg.Controller.sendLinkEvent({ linkName:'LEFTNAV:School_bylocation', linkType:'o' } );">Location</a>
+    </div>
+    <form action="/search.jsp?id=schoolNames" method="get" name="schoolNames" class="searchform school-names" id="schoolNames">
+      <input type="hidden" name="queryoption" value="HEADER" id="queryoption" />
+      <input type="hidden" name="queryBy" value="schoolName" id="queryBy" />
+      <div class="search-info">
+        <div class="drop-down-fix">
+          <input type="text" onfocus="javascript:mtvn.btg.Controller.sendLinkEvent({ linkName:'LEFTNAV:School_byname_schooltypeahead', linkType:'o' } );" id="schoolName" name="query" placeholder="school's name" autocorrect="off" autocomplete="off" required="" class="ui-autocomplete-input" />
+          <div id="schoolauContainer" class="autocomplete-container">
+            <ul></ul>
+          </div>
+          <span class="error-message" id="leftNav_error-message-align">This field is required.</span>
+        </div>
+        <div class="info">
+          Looking for a professor by school/department?
+          <a href="/mobile/professor_search" class="click-here lowercase">Click here.</a>
+        </div>
+        <div class="cta">
+         <input type="submit" value="Search" action="search" id="schoolNames-btn" onclick="javascript:mtvn.btg.Controller.sendLinkEvent({ linkName:'LEFTNAV:School_byname_search', linkType:'o' } );" />
+          <br />
+          <a class="reset-search-form">CANCEL</a>
+          <div class="left-info">
+            Looking for a professor by school/department?
+            <a href="/mobile/professor_search" class="click-here lowercase">Click here.</a>
+          </div>
+        </div>
+      </div>
+    </form>
+    <form action="/search.jsp" method="get" name="schoollocations" class="searchform school-locations" id="schoollocations">
+      <input type="hidden" name="queryoption" value="HEADER" id="queryoption" />
+      <input type="hidden" name="queryBy" value="schoolName" id="queryBy" />
+      <input type="hidden" name="country" value="united states" id="country" />
+      <input type="hidden" name="facetSearch" value="true" id="facetSearch" />
+      <div class="form-element required search-info">
+        <span class="line-form-txt"><div class="h2">I'm looking for a school in </div></span>
+        <div class="select-wraper">
+          <span class="sod_select " tabindex="0" data-cycle="false" data-links="false" data-links-external="false" data-placeholder-option="false" data-filter=""><span class="sod_label">select state</span><span class="sod_list_wrapper"><span class="sod_list" style="max-height: 360px;"><span class="sod_option  selected active " title="select state" data-value="">select state</span><span class="sod_option " title="Alaska" data-value="ak">Alaska</span><span class="sod_option " title="Alabama" data-value="al">Alabama</span><span class="sod_option " title="Arkansas" data-value="ar">Arkansas</span><span class="sod_option " title="Arizona" data-value="az">Arizona</span><span class="sod_option " title="California" data-value="ca">California</span><span class="sod_option " title="Colorado" data-value="co">Colorado</span><span class="sod_option " title="Connecticut" data-value="ct">Connecticut</span><span class="sod_option " title="Washington DC" data-value="dc">Washington DC</span><span class="sod_option " title="Delaware" data-value="de">Delaware</span><span class="sod_option " title="Florida" data-value="fl">Florida</span><span class="sod_option " title="Georgia" data-value="ga">Georgia</span><span class="sod_option " title="Hawaii" data-value="hi">Hawaii</span><span class="sod_option " title="Iowa" data-value="ia">Iowa</span><span class="sod_option " title="Idaho" data-value="id">Idaho</span><span class="sod_option " title="Illinois" data-value="il">Illinois</span><span class="sod_option " title="Indiana" data-value="in">Indiana</span><span class="sod_option " title="Kansas" data-value="ks">Kansas</span><span class="sod_option " title="Kentucky" data-value="ky">Kentucky</span><span class="sod_option " title="Louisiana" data-value="la">Louisiana</span><span class="sod_option " title="Massachusetts" data-value="ma">Massachusetts</span><span class="sod_option " title="Maryland" data-value="md">Maryland</span><span class="sod_option " title="Maine" data-value="me">Maine</span><span class="sod_option " title="Michigan" data-value="mi">Michigan</span><span class="sod_option " title="Minnesota" data-value="mn">Minnesota</span><span class="sod_option " title="Missouri" data-value="mo">Missouri</span><span class="sod_option " title="Mississippi" data-value="ms">Mississippi</span><span class="sod_option " title="Montana" data-value="mt">Montana</span><span class="sod_option " title="North Carolina" data-value="nc">North Carolina</span><span class="sod_option " title="North Dakota" data-value="nd">North Dakota</span><span class="sod_option " title="Nebraska" data-value="ne">Nebraska</span><span class="sod_option " title="New Hampshire" data-value="nh">New Hampshire</span><span class="sod_option " title="New Jersey" data-value="nj">New Jersey</span><span class="sod_option " title="New Mexico" data-value="nm">New Mexico</span><span class="sod_option " title="Nevada" data-value="nv">Nevada</span><span class="sod_option " title="New York" data-value="ny">New York</span><span class="sod_option " title="Ohio" data-value="oh">Ohio</span><span class="sod_option " title="Oklahoma" data-value="ok">Oklahoma</span><span class="sod_option " title="Oregon" data-value="or">Oregon</span><span class="sod_option " title="Pennsylvania" data-value="pa">Pennsylvania</span><span class="sod_option " title="Rhode Island" data-value="ri">Rhode Island</span><span class="sod_option " title="South Carolina" data-value="sc">South Carolina</span><span class="sod_option " title="South Dakota" data-value="sd">South Dakota</span><span class="sod_option " title="Tennessee" data-value="tn">Tennessee</span><span class="sod_option " title="Texas" data-value="tx">Texas</span><span class="sod_option " title="Utah" data-value="ut">Utah</span><span class="sod_option " title="Virginia" data-value="va">Virginia</span><span class="sod_option " title="Vermont" data-value="vt">Vermont</span><span class="sod_option " title="Washington" data-value="wa">Washington</span><span class="sod_option " title="Wisconsin" data-value="wi">Wisconsin</span><span class="sod_option " title="West Virginia" data-value="wv">West Virginia</span><span class="sod_option " title="Wyoming" data-value="wy">Wyoming</span></span></span><select onchange="javascript:mtvn.btg.Controller.sendLinkEvent({ linkName:'LEFTNAV:School_bylocation_statedropdown', linkType:'o' } );" id="schoolState" name="stateselect" required="" data-placeholder-option="false" data-size="10">
+<option value="">select state</option>
+<option value="ak">Alaska</option>
+<option value="al">Alabama</option>
+<option value="ar">Arkansas</option>
+<option value="az">Arizona</option>
+<option value="ca">California</option>
+<option value="co">Colorado</option>
+<option value="ct">Connecticut</option>
+<option value="dc">Washington DC</option>
+<option value="de">Delaware</option>
+<option value="fl">Florida</option>
+<option value="ga">Georgia</option>
+<option value="hi">Hawaii</option>
+<option value="ia">Iowa</option>
+<option value="id">Idaho</option>
+<option value="il">Illinois</option>
+<option value="in">Indiana</option>
+<option value="ks">Kansas</option>
+<option value="ky">Kentucky</option>
+<option value="la">Louisiana</option>
+<option value="ma">Massachusetts</option>
+<option value="md">Maryland</option>
+<option value="me">Maine</option>
+<option value="mi">Michigan</option>
+<option value="mn">Minnesota</option>
+<option value="mo">Missouri</option>
+<option value="ms">Mississippi</option>
+<option value="mt">Montana</option>
+<option value="nc">North Carolina</option>
+<option value="nd">North Dakota</option>
+<option value="ne">Nebraska</option>
+<option value="nh">New Hampshire</option>
+<option value="nj">New Jersey</option>
+<option value="nm">New Mexico</option>
+<option value="nv">Nevada</option>
+<option value="ny">New York</option>
+<option value="oh">Ohio</option>
+<option value="ok">Oklahoma</option>
+<option value="or">Oregon</option>
+<option value="pa">Pennsylvania</option>
+<option value="ri">Rhode Island</option>
+<option value="sc">South Carolina</option>
+<option value="sd">South Dakota</option>
+<option value="tn">Tennessee</option>
+<option value="tx">Texas</option>
+<option value="ut">Utah</option>
+<option value="va">Virginia</option>
+<option value="vt">Vermont</option>
+<option value="wa">Washington</option>
+<option value="wi">Wisconsin</option>
+<option value="wv">West Virginia</option>
+<option value="wy">Wyoming</option>
+</select></span>
+        </div>
+        <span class="error-message" id="leftNav_error-message-align">This field is required.</span>
+      </div>
+      <div class="info">
+        Looking for a professor by school/department?
+        <a href="/mobile/professor_search" class="click-here lowercase">Click here.</a>
+      </div>
+      <div class="cta">
+        <input type="submit" id="schoolLocationz" name="schoolLocationz" value="Search" onclick="javascript:mtvn.btg.Controller.sendLinkEvent({ linkName:'LEFTNAV:School_bylocation_search', linkType:'o' } );" />
+        <a class="reset-search-form">CANCEL</a>
+      </div>
+    </form>
+  </div>
+</div>
+
+
+      </div>
+      <!-- Ends school menu -->
+
+      <!-- Rate Menu -->
+      <div id="rateMenu" class="menu">
+
+        <div class="header">Rate a</div>
+        <div class="school-block-form">
+  <div class="h1">Rate a</div>
+  <div class="search-by" data-search="rateMenu">
+    <a href="javascript:void(0)" data-type="rate-professor" class="active" onclick="javascript:mtvn.btg.Controller.sendLinkEvent({ linkName:'LEFTNAV:Rate_Prof', linkType:'o' } );">Professor</a>
+    <a href="javascript:void(0)" data-type="rate-schools" class="" onclick="javascript:mtvn.btg.Controller.sendLinkEvent({ linkName:'LEFTNAV:Rate_School', linkType:'o' } );">School</a>
+  </div>
+  <form action="/search.jsp?id=rateProfessor" method="get" name="rateProfessor" class="searchform rate-professor" style="" id="rateProfessor">
+    <input type="hidden" name="queryoption" value="HEADER" id="queryoption" />
+    <input type="hidden" name="queryBy" value="teacherName" id="queryBy" />
+    <div class="search-info">
+      <span class="wrap">
+        I want to rate <br />
+        <input type="text" id="rateProfessorAC" name="query" placeholder="Professor's Name" required="" class="required ui-autocomplete-input" autocomplete="off" />
+        <div id="rateProfAC" class="autocomplete-container">
+          <ul></ul>
+        </div>
+        <span class="error-message" id="leftNav_error-message-align">This field is required.</span>
+      </span>
+    </div>
+    <div class="cta">
+      <input type="submit" value="Search" id="rateProfessor-btn" /> <br />
+      
+      <a class="reset-search-form">cancel</a>
+    </div>
+  </form>
+  <form action="/search.jsp?id=rateSchool" method="get" name="rateSchool" class="searchform rate-schools" style="" id="rateSchool">
+    <input type="hidden" name="queryoption" value="HEADER" id="queryoption" />
+    <input type="hidden" name="queryBy" value="schoolName" id="queryBy" />
+    <div class="search-info">
+      <span class="wrap">
+        I want to rate <br />
+        <input type="text" id="schoolName" name="query" placeholder="School's Name" required="" class="required ui-autocomplete-input" autocomplete="off" />
+        <div id="rateSchoolAC" class="autocomplete-container">
+          <ul></ul>
+        </div>
+        <span class="error-message" id="leftNav_error-message-align">This field is required.</span>
+      </span>
+    </div>
+    <div class="cta">
+      <input type="submit" value="Search" id="rateSchool-btn" /> <br />
+      
+      <a class="reset-search-form">cancel</a>
+    </div>
+  </form>
+</div>
+      </div>
+      <!-- Ends Rate Menu -->
+
+      <!-- Blog Menu -->
+  	    <div id="blogMenu" class="menu js-blog-menu-global">
+  	      <div class="blogMenu-inner">
+  		      <div class="header">Rate My Professors Blog</div>
+  		      <div class="clearfix"></div>
+<div class="panel-filter">
+  <div class="result-count">
+    <div class="sort-option">
+      
+        <span class="sod_select " tabindex="0" data-cycle="false" data-links="false" data-links-external="false" data-placeholder-option="false" data-filter=""><span class="sod_label">All Categories</span><span class="sod_list_wrapper"><span class="sod_list" style="max-height: 170px;"><span class="sod_option  selected active " title="All Categories" data-value="All">All Categories</span><span class="sod_option " title="RMP Buzz" data-value="RMP Buzz">RMP Buzz</span><span class="sod_option " title="Video" data-value="Professors Strike Back">Video</span><span class="sod_option " title="Top Lists" data-value="Lists">Top Lists</span><span class="sod_option " title="Miscellaneous" data-value="Misc.">Miscellaneous</span></span></span><select id="blog-filter" name="blogfilter" class="blog-filters">
+<option value="All">All Categories</option>
+<option value="RMP Buzz">RMP Buzz</option>
+<option value="Professors Strike Back">Video</option>
+<option value="Lists">Top Lists</option>
+<option value="Misc.">Miscellaneous</option>
+</select></span>
+      
+		</div>
+  </div>
+</div>
+<div class="result-list">
+  <ul id="blog-item-list">
+		<li>
+			<a href="/blog/buzzpost/6-fun-things-to-do-on-a-college-budget/">
+				<figure><img src="//s3.amazonaws.com/blog.ratemyprofessors.com-production/wp-content/uploads/2018/01/pexels-photo-7450451-e1516656606894.jpeg" width="73" height="73" /></figure>
+				<div class="text-wrap">
+					<div class="tag">
+						<span>RMP Buzz</span>
+					</div>
+					<p>6 Fun Things to Do On a College Budget</p>
+				</div>
+			</a>
+			<div class="clearfix"></div>
+		</li>
+	
+		<li>
+			<a href="/blog/buzzpost/merry-finals/">
+				<figure><img src="//s3.amazonaws.com/blog.ratemyprofessors.com-production/wp-content/uploads/2017/10/instagramclean21-e1508872022984.jpg" width="73" height="73" /></figure>
+				<div class="text-wrap">
+					<div class="tag">
+						<span>RMP Buzz</span>
+					</div>
+					<p>MERRY FINALS</p>
+				</div>
+			</a>
+			<div class="clearfix"></div>
+		</li>
+	
+		<li>
+			<a href="/blog/buzzpost/gram-exam/">
+				<figure><img src="//s3.amazonaws.com/blog.ratemyprofessors.com-production/wp-content/uploads/2017/10/instagramclean2-e1508858530728.jpg" width="73" height="73" /></figure>
+				<div class="text-wrap">
+					<div class="tag">
+						<span>RMP Buzz</span>
+					</div>
+					<p>RATE MY PROFESSORS IS HAVING A GRAM EXAM!</p>
+				</div>
+			</a>
+			<div class="clearfix"></div>
+		</li>
+	
+		<li>
+			<a href="/blog/buzzpost/5-outfits-every-college-student-must-have-in-their-closet/">
+				<figure><img src="//s3.amazonaws.com/blog.ratemyprofessors.com-production/wp-content/uploads/2017/10/closet1-e1508249504251.jpg" width="73" height="73" /></figure>
+				<div class="text-wrap">
+					<div class="tag">
+						<span>RMP Buzz</span>
+					</div>
+					<p>5 Outfits Every College Student MUST Have In Their Closet</p>
+				</div>
+			</a>
+			<div class="clearfix"></div>
+		</li>
+	
+		<li>
+			<a href="/blog/toplist/the-2016-2017-annual-top-lists-are-here/">
+				<figure><img src="//s3.amazonaws.com/blog.ratemyprofessors.com-production/wp-content/uploads/2017/09/TopLists1-e1504619460889.png" width="73" height="73" /></figure>
+				<div class="text-wrap">
+					<div class="tag">
+						<span>Lists</span>
+					</div>
+					<p>The 2016-2017 Annual Top Lists are here!</p>
+				</div>
+			</a>
+			<div class="clearfix"></div>
+		</li>
+	
+		<li>
+			<a href="/blog/toplist/highest-rated-universities-of-2016-2017/">
+				<figure><img src="//s3.amazonaws.com/blog.ratemyprofessors.com-production/wp-content/uploads/2017/09/HighestUnis1-e1504619491261.png" width="73" height="73" /></figure>
+				<div class="text-wrap">
+					<div class="tag">
+						<span>Lists</span>
+					</div>
+					<p>Highest Rated Universities of 2016-2017</p>
+				</div>
+			</a>
+			<div class="clearfix"></div>
+		</li>
+	
+		<li>
+			<a href="/blog/toplist/highest-rated-junior-and-community-colleges-of-2016-2017/">
+				<figure><img src="//s3.amazonaws.com/blog.ratemyprofessors.com-production/wp-content/uploads/2017/09/HighestJrCC1-e1504619538581.png" width="73" height="73" /></figure>
+				<div class="text-wrap">
+					<div class="tag">
+						<span>Lists</span>
+					</div>
+					<p>Highest Rated Junior and Community Colleges of 2016-2017</p>
+				</div>
+			</a>
+			<div class="clearfix"></div>
+		</li>
+	
+		<li>
+			<a href="/blog/toplist/highest-rated-university-professors-of-2016-2017/">
+				<figure><img src="//s3.amazonaws.com/blog.ratemyprofessors.com-production/wp-content/uploads/2017/09/HighestUniProfs1-e1504619508714.png" width="73" height="73" /></figure>
+				<div class="text-wrap">
+					<div class="tag">
+						<span>Lists</span>
+					</div>
+					<p>Highest Rated University Professors of 2016-2017</p>
+				</div>
+			</a>
+			<div class="clearfix"></div>
+		</li>
+	
+		<li>
+			<a href="/blog/toplist/highest-rated-junior-and-community-college-professors-of-2016-2017/">
+				<figure><img src="//s3.amazonaws.com/blog.ratemyprofessors.com-production/wp-content/uploads/2017/09/HighestJrCCProfs1-e1504619521790.png" width="73" height="73" /></figure>
+				<div class="text-wrap">
+					<div class="tag">
+						<span>Lists</span>
+					</div>
+					<p>Highest Rated Junior and Community College Professors of 2016-2017</p>
+				</div>
+			</a>
+			<div class="clearfix"></div>
+		</li>
+	
+		<li>
+			<a href="/blog/toplist/the-2016-2017-fun-lists/">
+				<figure><img src="//s3.amazonaws.com/blog.ratemyprofessors.com-production/wp-content/uploads/2017/09/TopLists1-e1504619460889.png" width="73" height="73" /></figure>
+				<div class="text-wrap">
+					<div class="tag">
+						<span>Lists</span>
+					</div>
+					<p>The 2016-2017 Fun Lists</p>
+				</div>
+			</a>
+			<div class="clearfix"></div>
+		</li>
+	
+		<li>
+			<a href="/blog/buzzpost/7-things-youll-wish-you-brought-to-college/">
+				<figure><img src="//s3.amazonaws.com/blog.ratemyprofessors.com-production/wp-content/uploads/2017/08/Header1-e1503497996598.jpg" width="73" height="73" /></figure>
+				<div class="text-wrap">
+					<div class="tag">
+						<span>RMP Buzz</span>
+					</div>
+					<p>7 Things You’ll Wish You Brought to College</p>
+				</div>
+			</a>
+			<div class="clearfix"></div>
+		</li>
+	
+		<li>
+			<a href="/blog/buzzpost/tips-for-a-stress-free-summer-semester/">
+				<figure><img src="//s3.amazonaws.com/blog.ratemyprofessors.com-production/wp-content/uploads/2017/06/pexels-photo-1889401-e1498498886490.jpeg" width="73" height="73" /></figure>
+				<div class="text-wrap">
+					<div class="tag">
+						<span>RMP Buzz</span>
+					</div>
+					<p>Tips for a stress-free summer semester</p>
+				</div>
+			</a>
+			<div class="clearfix"></div>
+		</li>
+	
+		<li>
+			<a href="/blog/buzzpost/7-things-you-should-do-before-the-end-of-the-semester/">
+				<figure><img src="//s3.amazonaws.com/blog.ratemyprofessors.com-production/wp-content/uploads/2017/04/CampusLife_Thumbnail.jpg" width="73" height="73" /></figure>
+				<div class="text-wrap">
+					<div class="tag">
+						<span>RMP Buzz</span>
+					</div>
+					<p>7 Things You Should Do Before the End of the Semester</p>
+				</div>
+			</a>
+			<div class="clearfix"></div>
+		</li>
+	
+		<li>
+			<a href="/blog/buzzpost/rock-your-commencement-with-bon-jovi/">
+				<figure><img src="//s3.amazonaws.com/blog.ratemyprofessors.com-production/wp-content/uploads/2017/02/MTVULogoBlue-e1486414893167.png" width="73" height="73" /></figure>
+				<div class="text-wrap">
+					<div class="tag">
+						<span>RMP Buzz</span>
+					</div>
+					<p>Rock your Commencement with Bon Jovi!</p>
+				</div>
+			</a>
+			<div class="clearfix"></div>
+		</li>
+	
+		<li>
+			<a href="/blog/buzzpost/8-tips-to-help-you-survive-registration/">
+				<figure><img src="//s3.amazonaws.com/blog.ratemyprofessors.com-production/wp-content/uploads/2016/11/SadSeal.png" width="73" height="73" /></figure>
+				<div class="text-wrap">
+					<div class="tag">
+						<span>RMP Buzz</span>
+					</div>
+					<p>8 Tips to help you Survive Registration</p>
+				</div>
+			</a>
+			<div class="clearfix"></div>
+		</li>
+	
+		<li>
+			<a href="/blog/buzzpost/four-reasons-to-download-the-ratemyprofessors-app/">
+				<figure><img src="//s3.amazonaws.com/blog.ratemyprofessors.com-production/wp-content/uploads/2016/09/icon175x175.jpeg" width="73" height="73" /></figure>
+				<div class="text-wrap">
+					<div class="tag">
+						<span>RMP Buzz</span>
+					</div>
+					<p>Four Reasons to Download the Rate My Professors App</p>
+				</div>
+			</a>
+			<div class="clearfix"></div>
+		</li>
+	
+		<li>
+			<a href="/blog/toplist/the-2015-2016-annual-top-lists-are-here/">
+				<figure><img src="//s3.amazonaws.com/blog.ratemyprofessors.com-production/wp-content/uploads/2016/09/top-list-thumbnail-e1473700445300.png" width="73" height="73" /></figure>
+				<div class="text-wrap">
+					<div class="tag">
+						<span>Lists</span>
+					</div>
+					<p>The 2015-2016 Annual  Top Lists are here!</p>
+				</div>
+			</a>
+			<div class="clearfix"></div>
+		</li>
+	
+		<li>
+			<a href="/blog/toplist/highest-rated-universities-of-2015-2016/">
+				<figure><img src="//s3.amazonaws.com/blog.ratemyprofessors.com-production/wp-content/uploads/2016/09/top-list-thumbnail-e1473700445300.png" width="73" height="73" /></figure>
+				<div class="text-wrap">
+					<div class="tag">
+						<span>Lists</span>
+					</div>
+					<p>Highest Rated Universities of 2015-2016</p>
+				</div>
+			</a>
+			<div class="clearfix"></div>
+		</li>
+	
+		<li>
+			<a href="/blog/toplist/highest-rated-junior-and-community-colleges-of-2015-2016/">
+				<figure><img src="//s3.amazonaws.com/blog.ratemyprofessors.com-production/wp-content/uploads/2016/09/top-list-thumbnail-e1473700445300.png" width="73" height="73" /></figure>
+				<div class="text-wrap">
+					<div class="tag">
+						<span>Lists</span>
+					</div>
+					<p>Highest Rated Junior and Community Colleges of 2015-2016</p>
+				</div>
+			</a>
+			<div class="clearfix"></div>
+		</li>
+	
+		<li>
+			<a href="/blog/toplist/highest-rated-university-professors-of-2015-2016/">
+				<figure><img src="//s3.amazonaws.com/blog.ratemyprofessors.com-production/wp-content/uploads/2016/09/top-list-thumbnail-e1473700445300.png" width="73" height="73" /></figure>
+				<div class="text-wrap">
+					<div class="tag">
+						<span>Lists</span>
+					</div>
+					<p>Highest Rated University Professors of 2015-2016</p>
+				</div>
+			</a>
+			<div class="clearfix"></div>
+		</li>
+	</ul>
+  <input type="submit" value="LOAD MORE" id="loadmoreBlog" onclick="javascript:mtvn.btg.Controller.sendLinkEvent({ linkName:'BLOG:LoadMore', linkType:'o' } );" />
+</div>
+
+  	   	  </div>
+  	    </div>
+      <!-- Ends Blog Menu -->
+
+
+      <!-- My Profs Menu -->
+	      <div id="myProfsMenu" class="menu">
+	        <a class="close-left-nav close-this">×</a>
+<div class="header">Saved Professors</div>
+<hr />
+<div class="my-professors-result-list">
+  <ul>
+  </ul>
+  <p class="no-professors">You can click "Save Prof" on any professor's page to save them in a personalized list here.</p>
+</div>
+
+<div class="myProfprogressbtnwrap" data-search-type="search">
+  <a href="#" class="content" id="myProfloadMore" data-teach-id="" onclick="javascript:mtvn.btg.Controller.sendLinkEvent({ linkName:'PROF:LoadMore', linkType:'o' } );">Load More</a>
+  <div class="progress-bar"></div>
+</div>
+
+<div class="close-myprofs-btn-wrap">
+  <a class="close-myprofs" onclick="javascript:mtvn.btg.Controller.sendLinkEvent({ linkName:'PROF:Close', linkType:'o' } );">close</a>
+</div>
+	      </div>
+      <!-- Ends My Profs Menu -->
+
+    </div>
+    <!-- Ends Left Menu -->
+
+    <!-- Starts Left Nav -->
+    <nav id="navToggle">
+      <ul>
+
+        <li>
+          <a href="#" class="menu-item highlighted blocked" id="profNav" data-menu="profMenu">
+            <span class="icon icon-professor"></span>
+            <span class="label">Profs</span>
+          </a>
+        </li>
+        <li>
+          <a href="#" class="menu-item" id="schoolNav" data-menu="schoolMenu">
+            <span class="icon icon-school"></span>
+            <span class="label">School</span>
+          </a>
+        </li>
+        <li>
+          <a href="#" class="menu-item" data-menu="rateMenu">
+            <span class="icon icon-rate"></span>
+            <span class="label">Rate</span>
+          </a>
+        </li>
+        <li>
+          <a href="#" class="menu-item" id="blogNav" data-menu="blogMenu">
+            <span class="icon icon-blog"></span>
+            <span class="label">Blog</span>
+          </a>
+        </li>
+
+        <li id="desktopmyProfContainer" class="hide">
+            <a href="#" class="menu-item" data-menu="myProfsMenu">
+                <div class="my-prof-notice">Click here to see all your saved professors.</div>
+                <span class="icon icon-my-profs"></span>
+                <span class="label">Saved</span>
+            </a>
+         </li>
+
+      </ul>
+
+    </nav>
+    <!-- Ends left Nav -->
+
+  </aside>
+
+        <!-- Ends Left Nav -->
+      
+
+      <!-- Starts Body Content -->
+
+      <div id="body" class="slide">
+        <!-- Spoutable ads -->
+        <div id="ad6x6" data-ad-sizes="6x6" data-ad-keyvalues="" data-ad-reload-interval="0" style="height: 0"><div id="ad6x6-ad-container" data-ad-sizes="6x6" data-ad-keyvalues="" data-ad-reload-interval="0" data-google-query-id="CMSQ1da8rtoCFRaOaQodup8F6w"><div id="google_ads_iframe_/8675/rmp_web/search_1__container__" style="border: 0pt none;"><iframe id="google_ads_iframe_/8675/rmp_web/search_1" title="3rd party ad content" name="google_ads_iframe_/8675/rmp_web/search_1" width="6" height="6" scrolling="no" marginwidth="0" marginheight="0" frameborder="0" srcdoc="" style="border: 0px; vertical-align: bottom;"></iframe></div></div></div>
+        <div id="ad4x4" data-ad-sizes="4x4" data-ad-keyvalues="" data-ad-reload-interval="0" style="height: 0"><div id="ad4x4-ad-container" data-ad-sizes="4x4" data-ad-keyvalues="" data-ad-reload-interval="0" data-google-query-id="CMia09a8rtoCFUwpaQodjcgMVQ"><div id="google_ads_iframe_/8675/rmp_web/search_0__container__" style="border: 0pt none;"><iframe id="google_ads_iframe_/8675/rmp_web/search_0" title="3rd party ad content" name="google_ads_iframe_/8675/rmp_web/search_0" width="4" height="4" scrolling="no" marginwidth="0" marginheight="0" frameborder="0" srcdoc="" style="border: 0px; vertical-align: bottom;"></iframe></div></div></div>
+        <!-- Spoutable ads end -->
+        
+        <div id="mainContent" class="height-col">
+          
+    <div class="left-panel" data-param-schoolname="University of Michigan" data-param-department="" data-param-schoolid="1258">
+      <div class="side-panel">
+        <div>
+          Showing professors at
+        </div>
+        <div>
+          <span class="school-name">University of Michigan</span> <a id="edit" href="javascript:void(0)">Edit</a>
+        </div>
+        
+          <div class="department-combobox">
+            in
+            <!-- 
+              use cookies to determine which department is selected
+              we also unfortunately have to replace html encoded spaces
+              since grails has auto-encoded them at some point 
+            -->
+            <div class="combobox-container"> <input type="hidden" name="" value="" /> <div class="input-group"> <input type="text" autocomplete="off" autocorrect="off" spellcheck="false" placeholder="Enter Your Department" class="combobox" /> <span class="input-group-addon dropdown-toggle" data-dropdown="dropdown"> <span class="caret"></span> <span class="glyphicon glyphicon-remove"></span> </span> </div> </div><select class="combobox" id="department-dropdown" onchange="javascript:mtvn.btg.Controller.sendLinkEvent({ linkName:'PROFMIDPANE:ComboBox', linkType:'o' } );" style="display: none;">
+              <option value="">Enter Your Department</option>
+              
+            
+					<option value="Accounting">Accounting</option>
+				
+					<option value="Administration">Administration</option>
+				
+					<option value="Advertising">Advertising</option>
+				
+					<option value="Aerospace Studies">Aerospace Studies</option>
+				
+					<option value="African Studies">African Studies</option>
+				
+					<option value="African-American Studies">African-American Studies</option>
+				
+					<option value="American Lng/Culture Institute">American Lng/Culture Institute</option>
+				
+					<option value="American Studies">American Studies</option>
+				
+					<option value="Anthropology">Anthropology</option>
+				
+					<option value="Arabic">Arabic</option>
+				
+					<option value="Architecture">Architecture</option>
+				
+					<option value="Art">Art</option>
+				
+					<option value="Art History">Art History</option>
+				
+					<option value="Asian Studies">Asian Studies</option>
+				
+					<option value="Astronomy">Astronomy</option>
+				
+					<option value="Biblical Studies">Biblical Studies</option>
+				
+					<option value="Biochemistry">Biochemistry</option>
+				
+					<option value="Biology">Biology</option>
+				
+					<option value="Biomedical">Biomedical</option>
+				
+					<option value="Biophysics">Biophysics</option>
+				
+					<option value="Biostatistics">Biostatistics</option>
+				
+					<option value="Business">Business</option>
+				
+					<option value="Business Administration">Business Administration</option>
+				
+					<option value="Business Economics">Business Economics</option>
+				
+					<option value="Chemical Engineering">Chemical Engineering</option>
+				
+					<option value="Chemistry">Chemistry</option>
+				
+					<option value="Chinese">Chinese</option>
+				
+					<option value="Civil Engineering">Civil Engineering</option>
+				
+					<option value="Classical Studies">Classical Studies</option>
+				
+					<option value="Classics">Classics</option>
+				
+					<option value="Cognitive Science">Cognitive Science</option>
+				
+					<option value="Communication Studies">Communication Studies</option>
+				
+					<option value="Comparative Literature">Comparative Literature</option>
+				
+					<option value="Composition">Composition</option>
+				
+					<option value="Comprehensive Studies">Comprehensive Studies</option>
+				
+					<option value="Computer Engineering">Computer Engineering</option>
+				
+					<option value="Computer Science">Computer Science</option>
+				
+					<option value="Creative Writing">Creative Writing</option>
+				
+					<option value="Criminal Justice">Criminal Justice</option>
+				
+					<option value="Dance">Dance</option>
+				
+					<option value="Dramatic Arts">Dramatic Arts</option>
+				
+					<option value="Earth Science">Earth Science</option>
+				
+					<option value="East Asian Studies">East Asian Studies</option>
+				
+					<option value="Ecology &amp; Evolutionary Biology">Ecology &amp; Evolutionary Biology</option>
+				
+					<option value="Economics">Economics</option>
+				
+					<option value="Education">Education</option>
+				
+					<option value="Electrical &amp; Comp. Engineering">Electrical &amp; Comp. Engineering</option>
+				
+					<option value="Electrical Engineering">Electrical Engineering</option>
+				
+					<option value="Electrical Engineering &amp; Computer Science">Electrical Engineering &amp; Computer Science</option>
+				
+					<option value="Engineering">Engineering</option>
+				
+					<option value="English">English</option>
+				
+					<option value="English Language &amp; Literature">English Language &amp; Literature</option>
+				
+					<option value="Entrepreneurship">Entrepreneurship</option>
+				
+					<option value="Environment">Environment</option>
+				
+					<option value="Environmental Science">Environmental Science</option>
+				
+					<option value="Epidemiology">Epidemiology</option>
+				
+					<option value="Film">Film</option>
+				
+					<option value="Finance">Finance</option>
+				
+					<option value="Fine Arts">Fine Arts</option>
+				
+					<option value="Foreign Languages">Foreign Languages</option>
+				
+					<option value="French">French</option>
+				
+					<option value="Genetics">Genetics</option>
+				
+					<option value="Geography">Geography</option>
+				
+					<option value="Geology">Geology</option>
+				
+					<option value="German">German</option>
+				
+					<option value="Graphic Arts">Graphic Arts</option>
+				
+					<option value="Greek">Greek</option>
+				
+					<option value="Health Administration">Health Administration</option>
+				
+					<option value="Health Education">Health Education</option>
+				
+					<option value="Health Science">Health Science</option>
+				
+					<option value="Hebrew">Hebrew</option>
+				
+					<option value="History">History</option>
+				
+					<option value="Industrial Engineering">Industrial Engineering</option>
+				
+					<option value="Information Science">Information Science</option>
+				
+					<option value="Italian">Italian</option>
+				
+					<option value="Japanese">Japanese</option>
+				
+					<option value="Jazz Studies">Jazz Studies</option>
+				
+					<option value="Judaic Studies">Judaic Studies</option>
+				
+					<option value="Kinesiology">Kinesiology</option>
+				
+					<option value="Korean">Korean</option>
+				
+					<option value="Landscape Studies">Landscape Studies</option>
+				
+					<option value="Languages">Languages</option>
+				
+					<option value="Latin">Latin</option>
+				
+					<option value="Linguistics">Linguistics</option>
+				
+					<option value="Literature">Literature</option>
+				
+					<option value="Management">Management</option>
+				
+					<option value="Marketing">Marketing</option>
+				
+					<option value="Materials Engineering">Materials Engineering</option>
+				
+					<option value="Mathematics">Mathematics</option>
+				
+					<option value="Mechanical Engineering">Mechanical Engineering</option>
+				
+					<option value="Medicine">Medicine</option>
+				
+					<option value="Microbiology">Microbiology</option>
+				
+					<option value="Molecular/Cellular Biology">Molecular/Cellular Biology</option>
+				
+					<option value="Molecular/Cellular/Dev Biology">Molecular/Cellular/Dev Biology</option>
+				
+					<option value="Movement Sciences">Movement Sciences</option>
+				
+					<option value="Museum Studies">Museum Studies</option>
+				
+					<option value="Music">Music</option>
+				
+					<option value="Music Education">Music Education</option>
+				
+					<option value="Music Performance">Music Performance</option>
+				
+					<option value="Natural Resources">Natural Resources</option>
+				
+					<option value="Naval Architecture">Naval Architecture</option>
+				
+					<option value="Naval Science">Naval Science</option>
+				
+					<option value="Near Eastern Studies">Near Eastern Studies</option>
+				
+					<option value="Neuropsychiatry">Neuropsychiatry</option>
+				
+					<option value="Nuclear Engineering">Nuclear Engineering</option>
+				
+					<option value="Nursing">Nursing</option>
+				
+					<option value="Oceanography">Oceanography</option>
+				
+					<option value="Operations Management">Operations Management</option>
+				
+					<option value="Oral &amp; Maxillofacial Surgery">Oral &amp; Maxillofacial Surgery</option>
+				
+					<option value="Organizational Studies">Organizational Studies</option>
+				
+					<option value="Pharmacology">Pharmacology</option>
+				
+					<option value="Pharmacy">Pharmacy</option>
+				
+					<option value="Philosophy">Philosophy</option>
+				
+					<option value="Photography">Photography</option>
+				
+					<option value="Physical Education">Physical Education</option>
+				
+					<option value="Physics">Physics</option>
+				
+					<option value="Physiology">Physiology</option>
+				
+					<option value="Political Science">Political Science</option>
+				
+					<option value="Portuguese">Portuguese</option>
+				
+					<option value="Pre-Law">Pre-Law</option>
+				
+					<option value="Psychiatry">Psychiatry</option>
+				
+					<option value="Psychology">Psychology</option>
+				
+					<option value="Public Health">Public Health</option>
+				
+					<option value="Public Policy">Public Policy</option>
+				
+					<option value="Religion">Religion</option>
+				
+					<option value="Residential College">Residential College</option>
+				
+					<option value="Russian">Russian</option>
+				
+					<option value="Scandinavian">Scandinavian</option>
+				
+					<option value="Sign Language">Sign Language</option>
+				
+					<option value="Slavic Languages">Slavic Languages</option>
+				
+					<option value="Social Work">Social Work</option>
+				
+					<option value="Sociology">Sociology</option>
+				
+					<option value="Spanish">Spanish</option>
+				
+					<option value="Sports Management">Sports Management</option>
+				
+					<option value="Statistics">Statistics</option>
+				
+					<option value="Swahili">Swahili</option>
+				
+					<option value="Swedish">Swedish</option>
+				
+					<option value="Theater">Theater</option>
+				
+					<option value="Theology">Theology</option>
+				
+					<option value="Turkish">Turkish</option>
+				
+					<option value="University Courses">University Courses</option>
+				
+					<option value="Urban Planning">Urban Planning</option>
+				
+					<option value="Vietnamese">Vietnamese</option>
+				
+					<option value="Women's Studies">Women's Studies</option>
+				
+					<option value="Writing">Writing</option>
+				
+					<option value="Yiddish">Yiddish</option>
+				
+					<option value="Zoology">Zoology</option>
+				</select>
+          </div>
+        
+        <!--googleoff: index-->
+<div class="panel-filter">
+  <div class="sort-options">
+    <span class="professor-count">4900</span> professors found
+    <span class="sod_select " tabindex="0" data-cycle="false" data-links="false" data-links-external="false" data-placeholder-option="false" data-filter=""><span class="sod_label">Most Rated</span><span class="sod_list_wrapper"><span class="sod_list" style="max-height: 132px;"><span class="sod_option  selected active " title="Most Rated" data-value="total_number_of_ratings_i desc">Most Rated</span><span class="sod_option " title="Highest Rated" data-value="averageratingscore_rf desc,total_number_of_ratings_i desc">Highest Rated</span><span class="sod_option " title="Least Difficult" data-value="averageeasyscore_rf asc">Least Difficult</span><span class="sod_option " title="Alphabetical" data-value="teacherlastname_sort_s asc">Alphabetical</span></span></span><select id="sort-results" onchange="javascript:mtvn.btg.Controller.sendLinkEvent({ linkName:'PROFMIDPANE:Sort', linkType:'o' } );">
+      <!--
+        use cookies to determine which sort is selected
+        we also unfortunately have to replace html encoded spaces
+        since cookies are url encoded
+      -->
+      <option value="total_number_of_ratings_i desc">Most Rated</option>
+      <option value="averageratingscore_rf desc,total_number_of_ratings_i desc">Highest Rated</option>
+      <option value="averageeasyscore_rf asc">Least Difficult</option>
+      <option value="teacherlastname_sort_s asc">Alphabetical</option>
+    </select></span>
+  </div>
+  <div class="professor-name-filter">
+    <input id="professor-name" type="text" placeholder="Enter Your Professor's Name" value="" onfocus="javascript:mtvn.btg.Controller.sendLinkEvent({ linkName:'PROFMIDPANE:SearchbynameSort', linkType:'o' } );" />
+  </div>
+  <div class="filter-options">
+    
+      <a class="result" data-value="a" onclick="javascript:mtvn.btg.Controller.sendLinkEvent({ linkName:'PROFMIDPANE:AlphaFilter', linkType:'o' } );">a</a>
+    
+      <a class="result" data-value="b" onclick="javascript:mtvn.btg.Controller.sendLinkEvent({ linkName:'PROFMIDPANE:AlphaFilter', linkType:'o' } );">b</a>
+    
+      <a class="result" data-value="c" onclick="javascript:mtvn.btg.Controller.sendLinkEvent({ linkName:'PROFMIDPANE:AlphaFilter', linkType:'o' } );">c</a>
+    
+      <a class="result" data-value="d" onclick="javascript:mtvn.btg.Controller.sendLinkEvent({ linkName:'PROFMIDPANE:AlphaFilter', linkType:'o' } );">d</a>
+    
+      <a class="result" data-value="e" onclick="javascript:mtvn.btg.Controller.sendLinkEvent({ linkName:'PROFMIDPANE:AlphaFilter', linkType:'o' } );">e</a>
+    
+      <a class="result" data-value="f" onclick="javascript:mtvn.btg.Controller.sendLinkEvent({ linkName:'PROFMIDPANE:AlphaFilter', linkType:'o' } );">f</a>
+    
+      <a class="result" data-value="g" onclick="javascript:mtvn.btg.Controller.sendLinkEvent({ linkName:'PROFMIDPANE:AlphaFilter', linkType:'o' } );">g</a>
+    
+      <a class="result" data-value="h" onclick="javascript:mtvn.btg.Controller.sendLinkEvent({ linkName:'PROFMIDPANE:AlphaFilter', linkType:'o' } );">h</a>
+    
+      <a class="result" data-value="i" onclick="javascript:mtvn.btg.Controller.sendLinkEvent({ linkName:'PROFMIDPANE:AlphaFilter', linkType:'o' } );">i</a>
+    
+      <a class="result" data-value="j" onclick="javascript:mtvn.btg.Controller.sendLinkEvent({ linkName:'PROFMIDPANE:AlphaFilter', linkType:'o' } );">j</a>
+    
+      <a class="result" data-value="k" onclick="javascript:mtvn.btg.Controller.sendLinkEvent({ linkName:'PROFMIDPANE:AlphaFilter', linkType:'o' } );">k</a>
+    
+      <a class="result" data-value="l" onclick="javascript:mtvn.btg.Controller.sendLinkEvent({ linkName:'PROFMIDPANE:AlphaFilter', linkType:'o' } );">l</a>
+    
+      <a class="result" data-value="m" onclick="javascript:mtvn.btg.Controller.sendLinkEvent({ linkName:'PROFMIDPANE:AlphaFilter', linkType:'o' } );">m</a>
+    
+      <a class="result" data-value="n" onclick="javascript:mtvn.btg.Controller.sendLinkEvent({ linkName:'PROFMIDPANE:AlphaFilter', linkType:'o' } );">n</a>
+    
+      <a class="result" data-value="o" onclick="javascript:mtvn.btg.Controller.sendLinkEvent({ linkName:'PROFMIDPANE:AlphaFilter', linkType:'o' } );">o</a>
+    
+      <a class="result" data-value="p" onclick="javascript:mtvn.btg.Controller.sendLinkEvent({ linkName:'PROFMIDPANE:AlphaFilter', linkType:'o' } );">p</a>
+    
+      <a class="result" data-value="q" onclick="javascript:mtvn.btg.Controller.sendLinkEvent({ linkName:'PROFMIDPANE:AlphaFilter', linkType:'o' } );">q</a>
+    
+      <a class="result" data-value="r" onclick="javascript:mtvn.btg.Controller.sendLinkEvent({ linkName:'PROFMIDPANE:AlphaFilter', linkType:'o' } );">r</a>
+    
+      <a class="result" data-value="s" onclick="javascript:mtvn.btg.Controller.sendLinkEvent({ linkName:'PROFMIDPANE:AlphaFilter', linkType:'o' } );">s</a>
+    
+      <a class="result" data-value="t" onclick="javascript:mtvn.btg.Controller.sendLinkEvent({ linkName:'PROFMIDPANE:AlphaFilter', linkType:'o' } );">t</a>
+    
+      <a class="result" data-value="u" onclick="javascript:mtvn.btg.Controller.sendLinkEvent({ linkName:'PROFMIDPANE:AlphaFilter', linkType:'o' } );">u</a>
+    
+      <a class="result" data-value="v" onclick="javascript:mtvn.btg.Controller.sendLinkEvent({ linkName:'PROFMIDPANE:AlphaFilter', linkType:'o' } );">v</a>
+    
+      <a class="result" data-value="w" onclick="javascript:mtvn.btg.Controller.sendLinkEvent({ linkName:'PROFMIDPANE:AlphaFilter', linkType:'o' } );">w</a>
+    
+      <a class="result" data-value="x" onclick="javascript:mtvn.btg.Controller.sendLinkEvent({ linkName:'PROFMIDPANE:AlphaFilter', linkType:'o' } );">x</a>
+    
+      <a class="result" data-value="y" onclick="javascript:mtvn.btg.Controller.sendLinkEvent({ linkName:'PROFMIDPANE:AlphaFilter', linkType:'o' } );">y</a>
+    
+      <a class="result" data-value="z" onclick="javascript:mtvn.btg.Controller.sendLinkEvent({ linkName:'PROFMIDPANE:AlphaFilter', linkType:'o' } );">z</a>
+    
+    <a class="result" data-value="All">All</a>
+  </div>
+</div>
+<div class="result-list">
+  <ul>
+	  <li id="my-professor-1159280">
+			<a href="/ShowRatings.jsp?tid=1159280&amp;showMyProfs=true">
+				<span class="good-icon"></span>
+				<span class="remove-this-button" data-id="1159280" style="display: none;">
+					×
+				</span>
+				<span class="rating">4.8</span>
+				<span class="name">Severance, Charles
+					<span class="info">411 RATINGS</span>
+				</span>
+			</a>
+		</li>
+	
+	  <li id="my-professor-224484">
+			<a href="/ShowRatings.jsp?tid=224484&amp;showMyProfs=true">
+				<span class="good-icon"></span>
+				<span class="remove-this-button" data-id="224484" style="display: none;">
+					×
+				</span>
+				<span class="rating">4.8</span>
+				<span class="name">Nolta, Kathleen
+					<span class="info">395 RATINGS</span>
+				</span>
+			</a>
+		</li>
+	
+	  <li id="my-professor-602218">
+			<a href="/ShowRatings.jsp?tid=602218&amp;showMyProfs=true">
+				<span class="good-icon"></span>
+				<span class="remove-this-button" data-id="602218" style="display: none;">
+					×
+				</span>
+				<span class="rating">4.9</span>
+				<span class="name">Conforth, Bruce
+					<span class="info">377 RATINGS</span>
+				</span>
+			</a>
+		</li>
+	
+	  <li id="my-professor-287981">
+			<a href="/ShowRatings.jsp?tid=287981&amp;showMyProfs=true">
+				<span class="average-icon"></span>
+				<span class="remove-this-button" data-id="287981" style="display: none;">
+					×
+				</span>
+				<span class="rating">3.3</span>
+				<span class="name">Malley, Brian
+					<span class="info">297 RATINGS</span>
+				</span>
+			</a>
+		</li>
+	
+	  <li id="my-professor-224445">
+			<a href="/ShowRatings.jsp?tid=224445&amp;showMyProfs=true">
+				<span class="good-icon"></span>
+				<span class="remove-this-button" data-id="224445" style="display: none;">
+					×
+				</span>
+				<span class="rating">4.8</span>
+				<span class="name">Schreier, Shelly
+					<span class="info">268 RATINGS</span>
+				</span>
+			</a>
+		</li>
+	
+	  <li id="my-professor-204732">
+			<a href="/ShowRatings.jsp?tid=204732&amp;showMyProfs=true">
+				<span class="good-icon"></span>
+				<span class="remove-this-button" data-id="204732" style="display: none;">
+					×
+				</span>
+				<span class="rating">4.7</span>
+				<span class="name">Gunderson, Brenda
+					<span class="info">234 RATINGS</span>
+				</span>
+			</a>
+		</li>
+	
+	  <li id="my-professor-337869">
+			<a href="/ShowRatings.jsp?tid=337869&amp;showMyProfs=true">
+				<span class="good-icon"></span>
+				<span class="remove-this-button" data-id="337869" style="display: none;">
+					×
+				</span>
+				<span class="rating">4.7</span>
+				<span class="name">Winn, Dave
+					<span class="info">212 RATINGS</span>
+				</span>
+			</a>
+		</li>
+	
+	  <li id="my-professor-895025">
+			<a href="/ShowRatings.jsp?tid=895025&amp;showMyProfs=true">
+				<span class="poor-icon"></span>
+				<span class="remove-this-button" data-id="895025" style="display: none;">
+					×
+				</span>
+				<span class="rating">2.4</span>
+				<span class="name">Hogan, Chad
+					<span class="info">209 RATINGS</span>
+				</span>
+			</a>
+		</li>
+	
+	  <li id="my-professor-21621">
+			<a href="/ShowRatings.jsp?tid=21621&amp;showMyProfs=true">
+				<span class="good-icon"></span>
+				<span class="remove-this-button" data-id="21621" style="display: none;">
+					×
+				</span>
+				<span class="rating">4.0</span>
+				<span class="name">Coppola, Brian
+					<span class="info">207 RATINGS</span>
+				</span>
+			</a>
+		</li>
+	
+	  <li id="my-professor-9420">
+			<a href="/ShowRatings.jsp?tid=9420&amp;showMyProfs=true">
+				<span class="average-icon"></span>
+				<span class="remove-this-button" data-id="9420" style="display: none;">
+					×
+				</span>
+				<span class="rating">2.7</span>
+				<span class="name">Ammerlaan, Marcus
+					<span class="info">178 RATINGS</span>
+				</span>
+			</a>
+		</li>
+	
+	  <li id="my-professor-22063">
+			<a href="/ShowRatings.jsp?tid=22063&amp;showMyProfs=true">
+				<span class="average-icon"></span>
+				<span class="remove-this-button" data-id="22063" style="display: none;">
+					×
+				</span>
+				<span class="rating">2.5</span>
+				<span class="name">Kerner, Nancy
+					<span class="info">177 RATINGS</span>
+				</span>
+			</a>
+		</li>
+	
+	  <li id="my-professor-122569">
+			<a href="/ShowRatings.jsp?tid=122569&amp;showMyProfs=true">
+				<span class="good-icon"></span>
+				<span class="remove-this-button" data-id="122569" style="display: none;">
+					×
+				</span>
+				<span class="rating">3.8</span>
+				<span class="name">Daida, Jason
+					<span class="info">167 RATINGS</span>
+				</span>
+			</a>
+		</li>
+	
+	  <li id="my-professor-260456">
+			<a href="/ShowRatings.jsp?tid=260456&amp;showMyProfs=true">
+				<span class="average-icon"></span>
+				<span class="remove-this-button" data-id="260456" style="display: none;">
+					×
+				</span>
+				<span class="rating">3.2</span>
+				<span class="name">Sipowska, Jadwiga
+					<span class="info">165 RATINGS</span>
+				</span>
+			</a>
+		</li>
+	
+	  <li id="my-professor-458759">
+			<a href="/ShowRatings.jsp?tid=458759&amp;showMyProfs=true">
+				<span class="average-icon"></span>
+				<span class="remove-this-button" data-id="458759" style="display: none;">
+					×
+				</span>
+				<span class="rating">3.4</span>
+				<span class="name">Gottfried, Amy
+					<span class="info">161 RATINGS</span>
+				</span>
+			</a>
+		</li>
+	
+	  <li id="my-professor-154139">
+			<a href="/ShowRatings.jsp?tid=154139&amp;showMyProfs=true">
+				<span class="good-icon"></span>
+				<span class="remove-this-button" data-id="154139" style="display: none;">
+					×
+				</span>
+				<span class="rating">4.3</span>
+				<span class="name">Peters-Golden, Holly
+					<span class="info">159 RATINGS</span>
+				</span>
+			</a>
+		</li>
+	
+	  <li id="my-professor-58316">
+			<a href="/ShowRatings.jsp?tid=58316&amp;showMyProfs=true">
+				<span class="average-icon"></span>
+				<span class="remove-this-button" data-id="58316" style="display: none;">
+					×
+				</span>
+				<span class="rating">2.5</span>
+				<span class="name">Dorf, Mary Lou
+					<span class="info">154 RATINGS</span>
+				</span>
+			</a>
+		</li>
+	
+	  <li id="my-professor-247543">
+			<a href="/ShowRatings.jsp?tid=247543&amp;showMyProfs=true">
+				<span class="good-icon"></span>
+				<span class="remove-this-button" data-id="247543" style="display: none;">
+					×
+				</span>
+				<span class="rating">3.9</span>
+				<span class="name">Bielajew, Alex
+					<span class="info">154 RATINGS</span>
+				</span>
+			</a>
+		</li>
+	
+	  <li id="my-professor-528271">
+			<a href="/ShowRatings.jsp?tid=528271&amp;showMyProfs=true">
+				<span class="average-icon"></span>
+				<span class="remove-this-button" data-id="528271" style="display: none;">
+					×
+				</span>
+				<span class="rating">3.3</span>
+				<span class="name">Balazovich, Kenneth
+					<span class="info">153 RATINGS</span>
+				</span>
+			</a>
+		</li>
+	
+	  <li id="my-professor-701332">
+			<a href="/ShowRatings.jsp?tid=701332&amp;showMyProfs=true">
+				<span class="average-icon"></span>
+				<span class="remove-this-button" data-id="701332" style="display: none;">
+					×
+				</span>
+				<span class="rating">2.5</span>
+				<span class="name">Venable, Thomas
+					<span class="info">153 RATINGS</span>
+				</span>
+			</a>
+		</li>
+	
+	  <li id="my-professor-13894">
+			<a href="/ShowRatings.jsp?tid=13894&amp;showMyProfs=true">
+				<span class="good-icon"></span>
+				<span class="remove-this-button" data-id="13894" style="display: none;">
+					×
+				</span>
+				<span class="rating">4.1</span>
+				<span class="name">Williams, Ralph
+					<span class="info">152 RATINGS</span>
+				</span>
+			</a>
+		</li>
+	</ul>
+  <div class="progressbtnwrap" data-search-type="search" style="display: block;">
+    <div class="content" onclick="javascript:mtvn.btg.Controller.sendLinkEvent({ linkName:'PROFMIDPANE:LoadMore', linkType:'o' } );">Load More</div>
+    <div class="progress-bar"></div>
+  </div>
+</div>
+<div class="add-professor" style="display: none;">
+  don't see your professor? <a href="/teacher/create" onclick="javascript:mtvn.btg.Controller.sendLinkEvent({ linkName:'PROFMIDPANE:AddProf', linkType:'o' } );">add them.</a>
+</div>
+<!--googleon: index-->
+      </div>
+    </div>
+    <div class="right-panel">
+      <div class="results-text">
+        <h1><span class="professor-count">4900</span> Professors Found</h1>
+        <h3>click on a professor to the left to view details</h3>
+        <div id="ad-container" class="right-panel-mtvnad"><div id="ad-container-ad-container" data-google-query-id="CKa75ta8rtoCFUErTwodPo8C1g"><div id="google_ads_iframe_/8675/rmp_web/search_2__container__" style="border: 0pt none;"><iframe id="google_ads_iframe_/8675/rmp_web/search_2" title="3rd party ad content" name="google_ads_iframe_/8675/rmp_web/search_2" width="300" height="250" scrolling="no" marginwidth="0" marginheight="0" frameborder="0" srcdoc="" style="border: 0px; vertical-align: bottom;"></iframe></div></div></div>
+      </div>
+    </div>
+  
+        </div>
+      </div>
+      <!-- Ends Body Content -->
+
+      <!-- Starts Mobile Footer -->
+      
+        
+
+<footer class="mobileFooter hidden-lg">
+		'
+	
+	<ul>
+		<li><a href="/About.jsp">about</a>
+		</li>
+		<li><a href="/mobile/blog" id="blogMobileFooterLink">blog</a></li>
+		<!-- <li><a
+			href="http://shop.mtv.com/category/79629920321/1/Rate-My-Professors.htm?utm_source=rmpcom&utm_medium=topnav&utm_campaign=rmpprods"
+			target="_blank">Store</a></li> -->
+		<li><a href="/help.jsp">Help</a>
+		</li>
+		<li><a href="/utility/contact">Contact
+				Us</a></li>
+		<li><a href="http://srp.viacom.com/sitefaq.html" target="_blank">Ad
+				Choices</a></li>
+		<li><a href="/TermsOfUse_us.jsp#use" id="mobile_termUsePage">Terms &amp; Conditions <span class="m_last_modified">Last Modified (3/14/2017)</span></a></li>
+		<li><a href="/TermsOfUse_us.jsp#privacy" id="mobile_privacyPage">Privacy Policy/Your CA Privacy Rights <span class="m_last_modified">Last Modified (6/22/2017)</span></a></li>
+		<li><a href="/TermsOfUse_us.jsp#copyright" id="mobile_copyRightPage">Copyright Compliance Policy</a></li>
+		<li class="terms-conditions">©2018 RateMyProfessors.com
+			LLC. All Rights Reserved. Powered by <a href="http://mtvu.com" target="_blank">mtvU</a>. mtvU is a trademark of Viacom International
+			Inc.
+		</li>
+	</ul>
+</footer>
+
+
+      
+      <!-- Ends Footer -->
+    </div>
+    <!-- Ends the page wrap -->
+
+    <!-- Starts Desktop Footer -->
+    
+      
+
+
+
+
+
+<div id="campusTourModal" class="reveal-modal" style="width: 50%;">
+  <div class="videoElement">
+
+  </div>
+	<!-- <div style="position:relative; padding-bottom:56.25%; overflow:hidden;"><iframe src="//content.jwplatform.com/players/npqIgP0W-sBqL3JWU.html" width="100%" height="100%" frameborder="0" scrolling="auto" allowfullscreen style="position:absolute;"></iframe></div> -->
+	<a class="close-reveal-modal">×</a>
+</div>
+<div id="saveNoteModal" class="reveal-modal">
+	<div class="modal-header">Note Submitted</div>
+	<p>Thank you for submitting your note. It may take up to a minute to be displayed on the site.</p>
+	<a href="javascript:void(0)" class="btn close-this save">Close</a>
+	<a class="close-reveal-modal">×</a>
+</div>
+<div id="adBlockModal" class="reveal-modal">
+	<div class="modal-header">We see that you’re using AdBlock.</div>
+	<p><br /><br />Ads can be annoying, but they allow us to provide you this resource for free. If you use an ad blocker, we're not getting that revenue that helps keep RateMyProfessors.com up and running.</p>
+	<p>Please whitelist us. Thanks!</p>
+  <a class="close-reveal-modal">×</a>
+</div>
+<div id="rateReminderModal" class="reveal-modal">
+	<div class="modal-header reminderHeader">Choosing the right professor isn't easy!</div>
+	<p class="reminderText">
+		Help guide your fellow classmates by giving them the inside scoop! They'll do the same for you.
+		Hope you had a good semester.<br /><br />We're all counting on you.
+	</p>
+	<a class="btn close-this save shortCookie">Remind Me Later</a><br /><br />
+	<a href="/rateprof" class="btn close-this save longCookie">Rate Now</a>
+	<a class="close-reveal-modal">×</a>
+</div>
+<div id="deleteNoteModal" class="reveal-modal">
+	<div class="delete-confirmed">
+	<div class="modal-header">Note Deleted</div>
+	<p>Your note has been deleted. It may take up to a minute to process.</p>
+	<div class="delete-options">
+		<a href="javascript:void(0)" class=" close-reveal-modal btn close-delete-confirm">Close</a>
+	</div>
+	</div>
+	<div class="delete-not-confirmed">
+	<div class="modal-header">Delete Note?</div>
+	<div class="delete-text">Are you sure you want to delete this note? Once deleted, we can't bring it back.</div>
+	<div class="delete-options">
+		<a href="javascript:void(0)" class="delete-confirm" data-id="">Yes</a>
+		<a href="javascript:void(0)" class="close-reveal-modal no">No</a>
+	</div>
+	</div>
+	<a class="close-reveal-modal">×</a>
+</div>
+    <!-- Delete Note Modal -->
+<footer class="mainFooter hidden-md">
+		'
+	
+	<ul id="leftFooter">
+		<li><a href="/About.jsp">about</a>
+			/</li>
+		<li><a href="/blog/buzzpost/6-fun-things-to-do-on-a-college-budget/?all=1" id="blogFooterLink">blog</a> /</li>
+		<!-- <li><a
+			href="http://shop.mtv.com/category/79629920321/1/Rate-My-Professors.htm?utm_source=rmpcom&utm_medium=topnav&utm_campaign=rmpprods"
+			target="_blank">Store</a> /</li> -->
+		<li><a href="/help.jsp">Help</a>
+			/</li>
+		<li><a href="/utility/contact">Contact
+				Us</a> /</li>
+		<li><a href="http://srp.viacom.com/sitefaq.html" target="_blank">Ad
+				Choices</a> /</li>
+		<li><a href="/TermsOfUse_us.jsp#use" id="termUsePage">Terms &amp; Conditions <span class="last_modified">Last Modified (3/14/2017)</span></a> /</li>
+		<li><a href="/TermsOfUse_us.jsp#privacy" id="privacyPage">Privacy Policy/Your ca privacy rights <span class="last_modified">Last Modified (6/22/2017)</span></a> /</li>
+		<li><a href="/TermsOfUse_us.jsp#copyright" id="copyRightPage">Copyright Compliance Policy</a></li>
+
+	</ul>
+	<section class="copyright">
+		©2018
+		RateMyProfessors.com LLC. All Rights Reserved. Powered by <a href="http://mtvu.com" target="_blank">mtvU</a>. mtvU is a trademark
+		of Viacom International Inc.
+	</section>
+
+	
+	<div id="footerExtend"></div>
+</footer> 
+
+
+    
+    <!-- Ends Footer -->
+
+    <div class="promotion promotionDesktop">
+  <a class="open" onclick="javascript:mtvn.btg.Controller.sendLinkEvent({ linkName:'PROMOS:Maximize', linkType:'o' } );">◀</a>
+  <a class="close" onclick="javascript:mtvn.btg.Controller.sendLinkEvent({ linkName:'PROMOS:Minimize', linkType:'o' } );">×</a>
+  <div class="content">
+    <a class="img" onclick="promoClickEvent();"><img class="promo-image" src="" /></a>
+    <div class="text-content">
+      <h3 class="title"><a class="title" onclick="promoClickEvent();"><span class="title-content">Wild 'N Out Returns</span></a></h3>
+      <span class="description">Wednesday Jan 7 @ 11pm only on MTV2!</span>
+    </div>
+    <div class="clearfix"></div>
+    <span id="promoid" style="display:none">0</span>
+    <a class="more-info" onclick="promoClickEvent();">
+    get more info about the premiere
+    </a>
+  </div>
+</div>
+    
+    <div class="mobileAppPromo">
+  <a href="#" class="close"></a>
+  <a href="https://appsto.re/us/9UHLu.i" class="app-link" target="_blank"></a>
+  <img src="/assets/mobileAppPromo.png" />
+</div>
+
+    <!-- Starts the student Drop down -->
+<!-- Ends the student drop down -->
+
+<!-- Starts the Professor Drop down -->
+<!-- Ends the Professor Drop down -->
+
+
+<!-- Starts the login menu -->
+<!-- Starts the login Menu -->
+<script type="text/template" id="loginTemplate">
+
+  &lt;div id="loginMenu" class="lform"&gt;
+    &lt;div class="header"&gt;
+      Login to Rate My Professors
+    &lt;/div&gt;
+    &lt;div class="why-signup"&gt;
+      &lt;span&gt;Go ahead, log in, you're still anonymous.&lt;/span&gt; You're always anonymous here, but logging in will save your school and recent searches, helping you find professors faster. You can thank us later.
+    &lt;/div&gt;
+    &lt;form id="loginForm" action="/userauth" method="post"&gt;
+      &lt;div class="form-element"&gt;
+        &lt;div class="error email password"&gt;Incorrect email or password&lt;/div&gt;
+        &lt;div class="label"&gt;email&lt;/div&gt;
+        &lt;input type="text" name="pemail" class="pemail"/&gt;
+      &lt;/div&gt;
+
+      &lt;div class="form-element"&gt;
+        &lt;div class="label"&gt;password&lt;/div&gt;
+        &lt;input type="text" name="ppassword" class="ppassword" /&gt;
+      &lt;/div&gt;
+
+      &lt;div class="form-element"&gt;
+        &lt;input type="checkbox" name="remember" value="0"/&gt;
+        &lt;label class="rememberme"&gt;Remember Me&lt;/label&gt;
+        &lt;a href="#" class="forgotpw" id="forgotPassword"&gt;Forgot my password &lt;/a&gt;
+      &lt;/div&gt;
+
+      &lt;div class="form-element"&gt;
+        &lt;input type="submit" id="userLogin" value="Login"/&gt;
+        &lt;div class="or-block"&gt;
+          &lt;hr/&gt;
+          &lt;div class="ortext"&gt;or&lt;/div&gt;
+        &lt;/div&gt;
+        &lt;a href="#" id="signupLink"&gt;Sign up for an account&lt;/a&gt;
+
+      &lt;/div&gt;
+
+    &lt;/form&gt;
+
+  &lt;/div&gt;
+
+</script>
+
+<!-- Ends: login menu -->
+<!-- Ends the login menu -->
+
+<!-- Starts the Forgotten Password fields -->
+<!-- Starts Forgot Password fields -->
+<script type="text/template" id="resetPasswordForm">
+
+  &lt;div id="resetPassword" class="lform"&gt;
+    &lt;div class="header"&gt;Forgot Password&lt;/div&gt;
+    &lt;p&gt;Enter your login email to reset your password.&lt;/p&gt;
+    &lt;form action="" method="post" id="resetPasswordField"&gt;
+      &lt;div class="form-element email-form"&gt;
+        &lt;div class="label"&gt;email&lt;/div&gt;
+        &lt;input type="text" name="reset_password" id="reset_password"&gt;
+      &lt;/div&gt;
+      &lt;div class="form-element"&gt;
+        &lt;input type="submit" value="Reset password" id="reset_password_submit"&gt;
+      &lt;/div&gt;
+    &lt;/form&gt;
+  &lt;/div&gt;
+
+</script>
+
+<!-- Ends Forgot Password fields -->
+<!-- Ends the Forgotten Password fields-->
+
+<!-- Starts the create a user drop down -->
+
+<!-- Ends the create user drop down -->
+
+
+    <script>
+      
+      
+      var mainJS = '/assets/application-f7633645577ad5b15c0910f36b34dd81.js';
+
+      var resources = [
+        "https://btg.mtvnservices.com/aria/coda.html?site=ratemyprofessors.com&amp;amp;Ads_DFP=1&amp;amp;Ads=0",
+        mainJS,
+        "/assets/libs/utils-04ad04e99b80015037821c85d81f4433.js",
+      ];
+      resources.forEach(function(source) {
+        var script = document.createElement('script');
+        script.src = source;
+        script.async = false;
+        document.body.appendChild(script);
+      });
+    </script><script src="https://btg.mtvnservices.com/aria/coda.html?site=ratemyprofessors.com&amp;amp;Ads_DFP=1&amp;amp;Ads=0"></script><script src="/assets/application-f7633645577ad5b15c0910f36b34dd81.js"></script><script src="/assets/libs/utils-04ad04e99b80015037821c85d81f4433.js"></script>
+
+    <script type="text/javascript" src="https://mediamtvnserv-a.akamaihd.net/player/api/2.11.7/api.min.js"></script>
+    <script>
+      window.___gcfg = {
+        lang: 'en-US',
+        parsetags: 'onload'
+      };
+    </script>
+    <script src="https://apis.google.com/js/platform.js" async="" defer="" gapi_processed="true"></script>
+    <script src="https://apis.google.com/js/api:client.js" gapi_processed="true"></script>
+    <!-- Coda Implementation -->
+  <!-- PAGEOK -->
+  
+
+
+<ul id="ui-id-1" tabindex="0" class="ui-menu ui-widget ui-widget-content ui-autocomplete ui-front" style="display: none;"></ul><div role="status" aria-live="assertive" aria-relevant="additions" class="ui-helper-hidden-accessible"></div><ul id="ui-id-2" tabindex="0" class="ui-menu ui-widget ui-widget-content ui-autocomplete ui-front" style="display: none;"></ul><div role="status" aria-live="assertive" aria-relevant="additions" class="ui-helper-hidden-accessible"></div><ul id="ui-id-3" tabindex="0" class="ui-menu ui-widget ui-widget-content ui-autocomplete ui-front" style="display: none;"></ul><div role="status" aria-live="assertive" aria-relevant="additions" class="ui-helper-hidden-accessible"></div><ul id="ui-id-4" tabindex="0" class="ui-menu ui-widget ui-widget-content ui-autocomplete ui-front" style="display: none;"></ul><div role="status" aria-live="assertive" aria-relevant="additions" class="ui-helper-hidden-accessible"></div><ul id="ui-id-5" tabindex="0" class="ui-menu ui-widget ui-widget-content ui-autocomplete ui-front" style="display: none;"></ul><div role="status" aria-live="assertive" aria-relevant="additions" class="ui-helper-hidden-accessible"></div><ul id="ui-id-6" tabindex="0" class="ui-menu ui-widget ui-widget-content ui-autocomplete ui-front" style="display: none;"></ul><div role="status" aria-live="assertive" aria-relevant="additions" class="ui-helper-hidden-accessible"></div><ul id="ui-id-7" tabindex="0" class="ui-menu ui-widget ui-widget-content ui-autocomplete ui-front" style="display: none;"></ul><div role="status" aria-live="assertive" aria-relevant="additions" class="ui-helper-hidden-accessible"></div><ul id="ui-id-8" tabindex="0" class="ui-menu ui-widget ui-widget-content ui-autocomplete ui-front" style="display: none;"></ul><div role="status" aria-live="assertive" aria-relevant="additions" class="ui-helper-hidden-accessible"></div><iframe sandbox="allow-scripts allow-same-origin" title="Adobe ID Syncing iFrame" id="destination_publishing_iframe_mtvn_0" src="http://fast.mtvn.demdex.net/dest5.html?d_nsid=0#http%3A%2F%2Fwww.ratemyprofessors.com%2Fsearch.jsp%3FqueryBy%3DschoolId%26schoolName%3DUniversity%2Bof%2BMichigan%26schoolID%3D1258%26queryoption%3DTEACHER" class="aamIframeLoaded" style="display: none; width: 0px; height: 0px;"></iframe><ul class="typeahead typeahead-long dropdown-menu"></ul><iframe style="height:1px;width:1px;visibility:hidden;position:absolute;bottom:0;left:-1000px" src="http://fast.mtvn.demdex.net/DSD-gz/mtvn-dest.html?targus=1&amp;targusvalidttl=14400&amp;bizo=1&amp;bizovalidttl=14400&amp;nexac=1&amp;nexacvalidttl=14400&amp;acx=1&amp;acxvalidttl=14400&amp;addthis=1&amp;addthisvalidttl=14400&amp;is_exelate=1&amp;exvalidttl=302400&amp;is_mediamath=1&amp;mmvalidttl=10080&amp;rubicon=1&amp;rubiconvalidttl=14400&amp;tapad=1&amp;tapadvalidttl=20160&amp;vid=1&amp;vidvalidttl=10080&amp;qtct=1&amp;qtctvalidttl=20160"></iframe><iframe id="google_osd_static_frame_7352038864720" name="google_osd_static_frame" style="display: none; width: 0px; height: 0px;"></iframe><script async="" src="http://edge.quantserve.com/quant.js"></script><iframe id="spout-unit-iframe-4c7dd75a-be25-4eb1-83d3-712076b501e3--L9h-AlTWk2bga668jTM" scrolling="no" class="placement-fixed-footer spout-mode- spout-show" style="position: absolute; top: -9999px; left: -9999px; width: 1px; height: 1px;"></iframe><script async="" src="http://edge.quantserve.com/quant.js"></script><iframe id="spout-unit-iframe-9366e945-2105-44dc-b9d9-1e72a40fabad--L9h-Arkfk4UD2u55qAo" scrolling="no" style="position: absolute; top: -9999px; left: -9999px; width: 1px; height: 1px;"></iframe></body></html>
