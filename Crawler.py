@@ -6,7 +6,9 @@ import Queue
 from bs4 import BeautifulSoup
 from selenium import webdriver
 import time
-
+import requests
+import Professor
+import json
 
 # Click the "Load more" button max_prof times
 # Write html to file
@@ -56,7 +58,7 @@ def crawl(rate_my_professor):
         if "/ShowRatings.jsp?tid=" in link:
             link = rate_my_professor + link
             professor_urls.add(link)
-            print link
+            # print link
 
     return professor_urls
 
@@ -70,6 +72,57 @@ def output_to_file(set):
     f.close()
 
 
+# Get the necessary html for the professor
+def get_professor_data(professor_urls):
+
+    prof_dict = {}
+    while len(professor_urls) > 0:
+        # print len(professor_urls)
+        url = professor_urls.pop()
+        url = url.encode("utf-8")
+
+        soup = BeautifulSoup(requests.get(url).text, "html.parser")
+        prof = soup.find_all('h1', {'class': 'profname'})[0]
+        prof_name = prof.getText().encode("utf-8").split()
+        prof_name = ' '.join(prof_name)
+        print prof_name
+
+        score = soup.find_all('div', {'class': 'grade'})[0]
+        score = score.getText().encode("utf-8")
+        print score
+
+        prof_tags = {}
+        for tags in soup.find_all('span', {'class': 'tag-box-choosetags'}):
+            tag = tags.getText().encode("utf-8")
+            p = re.compile("\d+")
+            num =p.findall(tag)[0]
+            tag = tag.split("(")[0].lstrip(' ')
+            prof_tags[tag] = num
+        print prof_tags
+
+        comments = []
+        for comment in soup.find_all('p', {'class': 'commentsParagraph'}):
+            comment = comment.getText().encode("utf-8").split()
+            comment =' '.join(comment)
+            comments.append(comment)
+        print comments
+
+        professor = {"url": url,
+                    "name": prof_name,
+                     "score": score,
+                     "tags": prof_tags,
+                     "comments": comments
+                     }
+
+        pid = re.findall(r'tid=([^]]*)&', url)[0]
+
+        prof_dict[pid] = professor
+
+    output = json.dumps(prof_dict, indent=4)
+    f = open("professors.json", "w")
+    f.write(output)
+
+
 # run if main file
 if __name__ == "__main__":
 
@@ -78,6 +131,6 @@ if __name__ == "__main__":
 
     # load_more(source, 20)
     professor_urls = crawl(rate_my_professor)
-    output_to_file(professor_urls)
+    # output_to_file(professor_urls)
 
-
+    get_professor_data(professor_urls)
