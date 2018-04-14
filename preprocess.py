@@ -76,12 +76,12 @@ def removeStopwords(listOfTokens):
 	been
 	but
 	by 
-	class
 	do
 	few
 	from
 	for
 	get
+	had
 	have
 	here
 	how
@@ -91,8 +91,6 @@ def removeStopwords(listOfTokens):
 	is
 	it
 	its
-	lecture
-	lectures
 	many
 	me
 	my
@@ -102,7 +100,6 @@ def removeStopwords(listOfTokens):
 	on 
 	or
 	our
-	professor
 	so
 	some
 	take
@@ -126,10 +123,24 @@ def removeStopwords(listOfTokens):
 	with
 	you
 	your
+	class
+	great
+	very
+	really
+	students
+	exams
+	lot
+	material
+	lecture
+	lectures
+	just
+	would
+	can
+	were
 	"""
 
-	femalestr = ["her", "she", "herself"]
-	malestr = ["he", "him", "his", "himself"]
+	femalestr = ["her", "she", "herself", "girl", "woman", "lady"]
+	malestr = ["he", "him", "his", "himself", "guy", "man"]
 	stopwords = stopwordsstr.split()
 	finalListOfTokens = list()
 	genderTest = {"male": 0, "female": 0}
