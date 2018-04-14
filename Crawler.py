@@ -129,8 +129,8 @@ if __name__ == "__main__":
     rate_my_professor = "http://www.ratemyprofessors.com/"
     source = 'http://www.ratemyprofessors.com/search.jsp?queryBy=schoolId&schoolName=University+of+Michigan&schoolID=1258&queryoption=TEACHER'
 
-    # load_more(source, 20)
+    # load_more(source, 200)
     professor_urls = crawl(rate_my_professor)
-    # output_to_file(professor_urls)
+    output_to_file(professor_urls)
 
     get_professor_data(professor_urls)
