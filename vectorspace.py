@@ -123,11 +123,19 @@ def main():
         top_10 = {}
         top_gender = -1
 
+        num_female = 0
+        num_male = 0
+
         for k in sorted(rt, key=rt.get, reverse=True):
 
             top_10[k] = rt[k]
             if top == 1:
                 top_gender = correct_genders[k]
+
+            if correct_genders[k] == 0:
+                num_male += 1
+            else:
+                num_female += 1
 
             print(str(top) + " " + prof_names[k] + " " + str(correct_genders[k]) + " " + str(rt[k]) + "\n")
             if top == 10:
@@ -143,7 +151,10 @@ def main():
 
         profs[query] = prof
 
-
+        if num_male > num_female:
+            top_gender = 0
+        else:
+            top_gender = 1
 
         if (correct_genders[int(query)] == top_gender):
             num_correct += 1
