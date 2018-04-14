@@ -85,6 +85,7 @@ def main():
     prof_ids = []
     num_docs = 0
     num_correct = 0
+    num_rocchio_correct = 0
 
     with open('profTerms.json') as data_file:
         json_obj = json.load(data_file)
@@ -104,10 +105,13 @@ def main():
             prof_ids.append(int(prof_id))
 
     profs = {}
+    rocchio_results = {}
 
     for query in prof_ids:
 
         invertedIndex = {}
+        femaleInvertedIndex = {}
+        maleInvertedIndex = {}
 
         for prof_id in prof_ids:
 
@@ -115,16 +119,37 @@ def main():
 
                 indexDocument(prof_terms[prof_id], invertedIndex, prof_id)
 
+                if correct_genders[prof_id] == 1:
+                    indexDocument(prof_terms[prof_id], femaleInvertedIndex, 1)
+                else:
+                    indexDocument(prof_terms[prof_id], maleInvertedIndex, 0)
+
+
         rt = retrieveDocuments(prof_terms[query], invertedIndex, num_docs)
+
+        female_result = retrieveDocuments(prof_terms[query], femaleInvertedIndex, 2)
+        male_result = retrieveDocuments(prof_terms[query], maleInvertedIndex, 2)
 
         print(prof_names[int(query)] + " " + str(correct_genders[int(query)]) + "\n")
 
         top = 1
         top_10 = {}
         top_gender = -1
+        top_gender_rocchio = -1
 
         num_female = 0
         num_male = 0
+
+
+        print("female result: " + str(female_result[1]) + "\n")
+        print("male result: " + str(male_result[0]) + "\n")
+
+
+        if female_result[1] > male_result[0]:
+            top_gender_rocchio = 1
+        else:
+            top_gender_rocchio = 0
+
 
         for k in sorted(rt, key=rt.get, reverse=True):
 
@@ -148,8 +173,14 @@ def main():
                 "predicted_gender": top_gender,
                 "top_10": top_10
                 }
-
+        rocchio = {"name": prof_names[int(query)],
+                "gender": correct_genders[int(query)],
+                "predicted_gender": top_gender_rocchio,
+                "female_cosine_sim": female_result[1],
+                "male_cosine_sim": male_result[0]
+                }
         profs[query] = prof
+        rocchio_results[query] = rocchio
 
         if num_male > num_female:
             top_gender = 0
@@ -161,12 +192,24 @@ def main():
 
         print("NUMBER CORRECT: " + str(num_correct))
 
+        if (correct_genders[int(query)] == top_gender_rocchio):
+            num_rocchio_correct += 1
+
+        print("NUMBER CORRECT ROCCHIO: " + str(num_rocchio_correct))
+
     profs["accuracy"] = num_correct / num_docs
     profs["num_correct"] = num_correct
 
     output = json.dumps(profs, indent=4)
     f = open("profQueries.json", "w")
     f.write(output)
+
+    rocchio_results["accuracy"] = num_rocchio_correct / num_docs
+    rocchio_results["num_correct"] = num_rocchio_correct
+
+    output = json.dumps(rocchio_results, indent=4)
+    f2 = open("profRocchio.json", "w")
+    f2.write(output)
 
 
 if __name__ == "__main__":

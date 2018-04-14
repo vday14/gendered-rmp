@@ -64,6 +64,7 @@ def removeStopwords(listOfTokens):
 
 	stopwordsstr = """
 	a
+	about
 	all
 	an
 	and
@@ -75,9 +76,12 @@ def removeStopwords(listOfTokens):
 	been
 	but
 	by 
+	do
 	few
 	from
 	for
+	get
+	had
 	have
 	here
 	how
@@ -91,11 +95,14 @@ def removeStopwords(listOfTokens):
 	me
 	my
 	none
+	not
 	of
 	on 
 	or
 	our
+	so
 	some
+	take
 	the
 	their
 	them
@@ -116,10 +123,24 @@ def removeStopwords(listOfTokens):
 	with
 	you
 	your
+	class
+	great
+	very
+	really
+	students
+	exams
+	lot
+	material
+	lecture
+	lectures
+	just
+	would
+	can
+	were
 	"""
 
-	femalestr = ["her", "she"]
-	malestr = ["he", "him", "his"]
+	femalestr = ["her", "she", "herself", "girl", "woman", "lady"]
+	malestr = ["he", "him", "his", "himself", "guy", "man"]
 	stopwords = stopwordsstr.split()
 	finalListOfTokens = list()
 	genderTest = {"male": 0, "female": 0}
@@ -128,8 +149,14 @@ def removeStopwords(listOfTokens):
 
 	for token in listOfTokens:
 
-		if token not in (stopwords and femalestr and malestr):
-			finalListOfTokens.append(token)
+		if token not in stopwords: #(stopwords or femalestr or malestr):
+			if token not in femalestr:
+				if token not in malestr:
+					if token == "her":
+						print("what")
+					finalListOfTokens.append(token)
+			
+			# finalListOfTokens.append(token)
 
 		if token in femalestr:
 			genderTest["female"] += 1
@@ -171,6 +198,8 @@ def tags(x):
 def getProfTerms(data):
 	profs = {}
 	count = 0
+	femaleTerms = {}
+	maleTerms = {}
 
 	for professor in data:
 
@@ -193,6 +222,17 @@ def getProfTerms(data):
 			else:
 				uniqueWords[word] = 1
 
+			if gender == 0:
+				if word in maleTerms:
+					maleTerms[word] += 1
+				else:
+					maleTerms[word] = 1
+			else:
+				if word in femaleTerms:
+					femaleTerms[word] += 1
+				else:
+					femaleTerms[word] = 1
+
 		prof = {"name": data[professor]["name"],
 						"gender": gender,
 						"terms": uniqueWords
@@ -203,6 +243,22 @@ def getProfTerms(data):
 	output = json.dumps(profs, indent=4)
 	f = open("profTerms.json", "w")
 	f.write(output)
+
+	termFile = open("termFile.output", "w")
+	termFile.write("TOP 10 MALE TERMS:\n")
+	count = 1
+	for key, value in sorted(maleTerms.iteritems(), key=lambda (k,v): (v,k), reverse = True):
+		termFile.write("%s %s" % (key.encode('utf-8'), value) + "\n")
+		count += 1
+		if count == 11:
+			break
+	count = 1
+	termFile.write("\nTOP 10 FEMALE TERMS\n")
+	for key, value in sorted(femaleTerms.iteritems(), key=lambda (k,v): (v,k), reverse = True):
+		termFile.write("%s %s" % (key.encode('utf-8'), value) + "\n")
+		count += 1
+		if count == 11:
+			break
 
 # run if main file
 if __name__ == "__main__":
