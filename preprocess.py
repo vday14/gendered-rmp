@@ -123,21 +123,22 @@ def removeStopwords(listOfTokens):
 	with
 	you
 	your
-	class
-	great
-	very
-	really
-	students
-	exams
-	lot
-	material
-	lecture
-	lectures
-	just
-	would
-	can
-	were
 	"""
+	# class
+	# great
+	# very
+	# really
+	# students
+	# exams
+	# lot
+	# material
+	# lecture
+	# lectures
+	# just
+	# would
+	# can
+	# were
+	# """
 
 	femalestr = ["her", "she", "herself", "girl", "woman", "lady"]
 	malestr = ["he", "him", "his", "himself", "guy", "man"]
@@ -233,12 +234,14 @@ def getProfTerms(data):
 				else:
 					femaleTerms[word] = 1
 
-		prof = {"name": data[professor]["name"],
-						"gender": gender,
-						"terms": uniqueWords
-						}
+		if len(uniqueWords) >= 2:
 
-		profs[professor] = prof
+			prof = {"name": data[professor]["name"],
+							"gender": gender,
+							"terms": uniqueWords
+							}
+
+			profs[professor] = prof
 
 	output = json.dumps(profs, indent=4)
 	f = open("profTerms.json", "w")
