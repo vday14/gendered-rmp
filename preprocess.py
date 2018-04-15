@@ -60,7 +60,7 @@ def tokenizeText(s):
 	return finalListOfTokens
 
 # fxn that removes stopwords
-def removeStopwords(listOfTokens):
+def removeStopwords(listOfTokens, extremeDict):
 
 	stopwordsstr = """
 	a
@@ -95,7 +95,6 @@ def removeStopwords(listOfTokens):
 	me
 	my
 	none
-	not
 	of
 	on 
 	or
@@ -123,22 +122,41 @@ def removeStopwords(listOfTokens):
 	with
 	you
 	your
+	class
+	great
+	very
+	really
+	students
+	exams
+	lot
+	material
+	lecture
+	lectures
+	just
+	would
+	can
+	were
+	one
+	office
+	hours
+	has
+	also
+	well
+	much
+	time
+	makes
+	make
+	course
+	because
+	not
+	than
+	too
+	ever
+	like
+	more
+	out
+	go
 	"""
-	# class
-	# great
-	# very
-	# really
-	# students
-	# exams
-	# lot
-	# material
-	# lecture
-	# lectures
-	# just
-	# would
-	# can
-	# were
-	# """
 
 	femalestr = ["her", "she", "herself", "girl", "woman", "lady"]
 	malestr = ["he", "him", "his", "himself", "guy", "man"]
@@ -147,14 +165,18 @@ def removeStopwords(listOfTokens):
 	genderTest = {"male": 0, "female": 0}
 
 	gender = -1
-
+	index = 1
 	for token in listOfTokens:
 
 		if token not in stopwords: #(stopwords or femalestr or malestr):
 			if token not in femalestr:
 				if token not in malestr:
-					if token == "her":
-						print("what")
+					if token == "extremely":
+						extremeWord = listOfTokens[index]
+						if extremeWord in extremeDict:
+							extremeDict[extremeWord] += 1
+						else:
+							extremeDict[extremeWord] = 1
 					finalListOfTokens.append(token)
 			
 			# finalListOfTokens.append(token)
@@ -164,12 +186,14 @@ def removeStopwords(listOfTokens):
 		elif token in malestr:
 			genderTest["male"] += 1
 
+		index += 1
+
 	if genderTest["female"] > genderTest["male"]:
 		gender = 1
 	else:
 		gender = 0
 
-	return finalListOfTokens, gender
+	return finalListOfTokens, gender, extremeDict
 
 def tags(x):
 	return {
@@ -201,6 +225,7 @@ def getProfTerms(data):
 	count = 0
 	femaleTerms = {}
 	maleTerms = {}
+	extremeDict = {}
 
 	for professor in data:
 
@@ -209,8 +234,9 @@ def getProfTerms(data):
 		for comment in data[professor]["comments"]:
 			comments += comment
 
+		
 		comments = tokenizeText(comments)
-		comments, gender = removeStopwords(comments)
+		comments, gender, extremeDict = removeStopwords(comments, extremeDict)
 		uniqueWords = dict()
 
 		for tag, val in data[professor]["tags"].iteritems():
@@ -234,7 +260,7 @@ def getProfTerms(data):
 				else:
 					femaleTerms[word] = 1
 
-		if len(uniqueWords) >= 2:
+		if len(uniqueWords) >= 5:
 
 			prof = {"name": data[professor]["name"],
 							"gender": gender,
@@ -244,23 +270,30 @@ def getProfTerms(data):
 			profs[professor] = prof
 
 	output = json.dumps(profs, indent=4)
-	f = open("profTerms.json", "w")
+	f = open("profTerms2.json", "w")
 	f.write(output)
 
 	termFile = open("termFile.output", "w")
-	termFile.write("TOP 10 MALE TERMS:\n")
+	termFile.write("TOP 20 MALE TERMS:\n")
 	count = 1
 	for key, value in sorted(maleTerms.iteritems(), key=lambda (k,v): (v,k), reverse = True):
 		termFile.write("%s %s" % (key.encode('utf-8'), value) + "\n")
 		count += 1
-		if count == 11:
+		if count == 21:
 			break
 	count = 1
-	termFile.write("\nTOP 10 FEMALE TERMS\n")
+	termFile.write("\nTOP 20 FEMALE TERMS\n")
 	for key, value in sorted(femaleTerms.iteritems(), key=lambda (k,v): (v,k), reverse = True):
 		termFile.write("%s %s" % (key.encode('utf-8'), value) + "\n")
 		count += 1
-		if count == 11:
+		if count == 21:
+			break
+	count = 1
+	termFile.write("\nTOP 20 EXTREME FEMALE TERMS\n")
+	for key, value in sorted(extremeDict.iteritems(), key=lambda (k,v): (v,k), reverse = True):
+		termFile.write("%s %s" % (key.encode('utf-8'), value) + "\n")
+		count += 1
+		if count == 21:
 			break
 
 # run if main file
