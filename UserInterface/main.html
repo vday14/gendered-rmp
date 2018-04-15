@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<meta charset="utf-8">
+	<link rel="stylesheet" href="style.css">
+    <script src="https://www.google.com/jsapi"></script>
+	<link href="https://fonts.googleapis.com/css?family=Raleway" rel="stylesheet">
+	<script src="http://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
+	<script src="http://unpkg.com/vue"></script>
+	<title>Gendered Language in RateMyProfessors</title>
+</head>
+
+<body>
+	<div id="app">
+		<div id="header">
+			<span>Gendered Language in </span>
+			<img v-on:click="loadHomepage" src="img/rmp2.png">
+			<input id="searchBox" type="text" v-model="searchText" v-on:keyup.enter="searchByName" placeholder="Search for a professor">
+		</div>
+
+		<div id="homepage" v-if="displayProfessorPage == false">
+			<div id="column1">
+				<p> <b>Gendered Language in RateMyProfessors</b> is a project created by Veronica Day, Amy Zhou, Elizabeth Dale, and Kelly Henckel for EECS 486: Information Retrieval.</p>
+				<p>We were interested in determining whether RateMyProfessor reviews contained gendered language. I.e., we were curious as to whether or not male and female professors recieved statistically different reviews.</p>
+				<p>To test this, we determined the genders of University of Michigan professors on RateMyProfessor through user comments and ratings.</p>
+				<p>After removing obviously gendered words (such as he/she/her/him), we discovered that many of the remaining words were correlated with the gender of a professor. Using the Rocchio method, we were able to predict gender with an accuracy of 54%. Using a Nearest Neighbor algorithm with 25 neighbors elevated our accuracy to 70%.</p>
+				<p>In conclusion, user reviews on RateMyProfessors contain gendered language.</p>
+				<p>To check out some of the language used, search for a professor above!</p>
+			</div>
+			<div id=column2>
+				<img src="img/accuracy.png">
+			</div>
+		</div>
+
+		<div id="professorPage" v-if="displayProfessorPage == true">
+			<p id="professorName"> {{professorInfo[ID].name}} </p>
+			<div id="professorImgWrapper">
+				<img id="professorImg" v-bind:src="professorImgSrc">
+			</div>
+			<div id="professorInfoWrapper">
+				<div id="professorInfo">
+					<p class="professorSubtitle"><b>Rating:</b> {{professorInfo[ID].rating}}</p>
+					<p class="professorSubtitle"><b>Gender:</b>
+						<img v-bind:src="professorInfo[ID].gender">
+					</p>
+					<p class="professorSubtitle"><b>Predicted Gender:</b>
+						<img v-bind:src="professorInfo[ID].predictedGender">
+					</p>
+				</div>
+
+				<div id="list1">
+					<span class="professorSubtitle"><b>Similar Professors:</b> </span>
+					<ul><li v-for="prof in professorInfo[ID].similarProfs" v-text="prof"></li></ul>
+				</div>
+
+				<div id="list2">
+					<span class="professorSubtitle"><b>Most Common Terms:</b> </span>
+					<ul><li v-for="term in professorInfo[ID].frequentTerms" v-text="term"></li></ul>
+				</div>
+
+				<div id="list3">
+					<span class="professorSubtitle"><b>Significant Terms:</b> </span>
+					<ul><li v-for="term in professorInfo[ID].randomTerms" v-text="term"></li></ul>
+				</div>
+			</div>
+			</img>
+		</div>
+	</div>
+</body>
+
+<script src="script.js"></script>
+
+</html>
