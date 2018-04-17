@@ -1,7 +1,7 @@
 Process: run crawler code --> json object called professors.json 
 --> run preprocessing code --> json object called profTerms.json 
 --> run query code --> json object called profQueries 
---> frontend (
+--> frontend
 
 Crawler files:
 Notes:
