@@ -22,8 +22,8 @@ the Professor json object to professors.json.
 NOTE: Selenium must be installed.
 
 Preprocessing files: 
-Notes: 
-
+To run, use the command: "python3 preprocess.py"
+This will create a JSON object called profTerms.json to be run by vectorspace.py
 
 Query files: vectorspace.py
 Notes: run using command "python3 vectorspace.py"
