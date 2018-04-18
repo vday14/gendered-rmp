@@ -1,14 +1,14 @@
 
-import sys
 import re
+import sys
 from sets import Set
-import Queue
 from bs4 import BeautifulSoup
 from selenium import webdriver
 import time
 import requests
 import Professor
 import json
+import os
 
 # Click the "Load more" button max_prof times
 # Write html to file
@@ -19,8 +19,8 @@ import json
 def load_more(source, max_profs):
 
     load_more_xpath = '//*[@id="mainContent"]/div[1]/div/div[5]/div/div[1]'
-
-    driver = webdriver.Chrome()
+    cwd = os.getcwd()
+    driver = webdriver.Chrome(cwd + "/chromedriver")
     driver.get(source)
     for x in range(max_profs):
         try:
@@ -129,8 +129,17 @@ if __name__ == "__main__":
     rate_my_professor = "http://www.ratemyprofessors.com/"
     source = 'http://www.ratemyprofessors.com/search.jsp?queryBy=schoolId&schoolName=University+of+Michigan&schoolID=1258&queryoption=TEACHER'
 
-    # load_more(source, 20)
+    if len(sys.argv) < 2:
+        print "Please specify Number of Professors"
+        sys.exit(0)
+    if int(sys.argv[1]) > 200 or int(sys.argv[1]) < 20:
+        print "Please specify a number between 20 and 200 for Number of Professors"
+        sys.exit(0)
+
+    max_profs = int(sys.argv[1]) / 20
+
+    load_more(source, max_profs)
     professor_urls = crawl(rate_my_professor)
-    # output_to_file(professor_urls)
+    output_to_file(professor_urls)
 
     get_professor_data(professor_urls)
