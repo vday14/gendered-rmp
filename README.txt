@@ -1,6 +1,6 @@
 Process: run crawler code --> json object called professors.json 
 --> run preprocessing code --> json object called profTerms.json 
---> run query code --> json object called profQueries.json
+--> run query code --> json objects called profQueries.json and profRocchio.json
 --> frontend
 
 Crawler files:
