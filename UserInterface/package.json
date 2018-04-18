@@ -1,0 +1,79 @@
+{
+  "_args": [
+    [
+      "first-image-search-load",
+      "/mnt/c/Users/Kelly/Documents/School Stuff/EECS 486/FinalProject"
+    ]
+  ],
+  "_from": "first-image-search-load@latest",
+  "_id": "first-image-search-load@0.4.0",
+  "_inCache": true,
+  "_installable": true,
+  "_location": "/first-image-search-load",
+  "_nodeVersion": "0.12.7",
+  "_npmUser": {
+    "email": "michail.kuznetsov@gmail.com",
+    "name": "mkuznetcov"
+  },
+  "_npmVersion": "2.11.3",
+  "_phantomChildren": {},
+  "_requested": {
+    "name": "first-image-search-load",
+    "raw": "first-image-search-load",
+    "rawSpec": "",
+    "scope": null,
+    "spec": "latest",
+    "type": "tag"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/first-image-search-load/-/first-image-search-load-0.4.0.tgz",
+  "_shasum": "5478c0b1b693f74ab4e103ff381a175b82568463",
+  "_shrinkwrap": null,
+  "_spec": "first-image-search-load",
+  "_where": "/mnt/c/Users/Kelly/Documents/School Stuff/EECS 486/FinalProject",
+  "author": {
+    "email": "michail.kuznetsov@gmail.com",
+    "name": "Mikhail Kuznetcov"
+  },
+  "bugs": {
+    "url": "https://github.com/shershen08/first-image-search-load/issues"
+  },
+  "dependencies": {
+    "cheerio": "^0.19.0",
+    "q": "^1.4.1",
+    "request": "~2.61.0"
+  },
+  "description": "Simple module that loads the first image from Google image search on query",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "shasum": "5478c0b1b693f74ab4e103ff381a175b82568463",
+    "tarball": "https://registry.npmjs.org/first-image-search-load/-/first-image-search-load-0.4.0.tgz"
+  },
+  "gitHead": "902fc3dffc1825359ffa3eb1bcb149653c28bda2",
+  "homepage": "https://github.com/shershen08/first-image-search-load#readme",
+  "keywords": [
+    "image search"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "maintainers": [
+    {
+      "name": "mkuznetcov",
+      "email": "michail.kuznetsov@gmail.com"
+    }
+  ],
+  "name": "first-image-search-load",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shershen08/first-image-search-load.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "0.4.0"
+}
