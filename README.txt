@@ -19,6 +19,8 @@ The crawler will write the html to ratemyprofessor.html. It will then scrape all
 and write these links to professor_urls.txt. Next the program will follow these links and parse the html, finally writing
 the Professor json object to professors.json.
 
+NOTE: Selenium must be installed.
+
 Preprocessing files: 
 Notes: 
 
