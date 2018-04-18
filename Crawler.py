@@ -6,6 +6,7 @@ from bs4 import BeautifulSoup
 from selenium import webdriver
 import time
 import requests
+import math
 import Professor
 import json
 import os
@@ -136,7 +137,7 @@ if __name__ == "__main__":
         print "Please specify a number between 20 and 200 for Number of Professors"
         sys.exit(0)
 
-    max_profs = int(sys.argv[1]) / 20
+    max_profs = int( math.floor(int(sys.argv[1]) / 20))
 
     load_more(source, max_profs)
     professor_urls = crawl(rate_my_professor)
