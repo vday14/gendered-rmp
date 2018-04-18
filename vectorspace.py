@@ -112,6 +112,7 @@ def main():
     for query in prof_ids:
 
         invertedIndex = {}
+
         femaleInvertedIndex = {}
         maleInvertedIndex = {}
 
@@ -166,6 +167,7 @@ def main():
 
             print(str(top) + " " + prof_names[k] + " " + str(correct_genders[k]) + " " + str(rt[k]) + "\n")
 
+
             # We modified the value here to be either 1, 11 or 25 based on the number of results we wanted
             if top == 11:
                 break
@@ -211,6 +213,7 @@ def main():
     output = json.dumps(profs, indent=4)
     f = open("profQueries.json", "w")
     f.write(output)
+
 
     rocchio_results["accuracy"] = num_rocchio_correct / num_docs
     rocchio_results["num_correct"] = num_rocchio_correct
