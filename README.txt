@@ -29,4 +29,7 @@ Query files: vectorspace.py
 Notes: run using command "python3 vectorspace.py"
 
 Frontend files:
-Notes:
+Notes: Launch the tool by opening index.html. Professors can be searched for with an exact substring match of their name.
+if only one professor matches, it will open the professor's page. The Google Image API is limited to 100 calls per day,
+so only 100 professor images will render. To view the results from a different dataset, replace the JSON files
+inside UserInterface/
